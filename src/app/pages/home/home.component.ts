@@ -1,5 +1,5 @@
 import { AsyncPipe } from '@angular/common';
-import { Component } from '@angular/core';
+import { Component, inject } from '@angular/core';
 import { RouterLink } from '@angular/router';
 import { Observable, map } from 'rxjs';
 import { Category } from '../../core/models/category.model';
@@ -14,9 +14,9 @@ import { CategoryCardComponent } from '../../shared/components/category-card/cat
   styleUrl: './home.component.scss',
 })
 export class HomeComponent {
+  private readonly categoryService = inject(CategoryService);
+
   readonly featuredCategories$: Observable<Category[]> = this.categoryService
     .getCategories()
     .pipe(map((categories) => categories.slice(0, 2)));
-
-  constructor(private readonly categoryService: CategoryService) {}
 }
