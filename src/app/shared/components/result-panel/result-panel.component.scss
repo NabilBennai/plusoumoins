@@ -1,0 +1,34 @@
+.result-panel {
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-soft);
+  margin-top: 1rem;
+  padding: 1rem;
+}
+
+.result-panel--success {
+  background: rgba(0, 197, 167, 0.12);
+  border: 1px solid rgba(0, 197, 167, 0.28);
+}
+
+.result-panel--danger {
+  background: rgba(255, 93, 108, 0.12);
+  border: 1px solid rgba(255, 93, 108, 0.28);
+}
+
+.result-panel__label {
+  font-size: 1.1rem;
+  font-weight: 900;
+  margin-top: 0;
+}
+
+.result-panel__final {
+  border-top: 1px solid rgba(91, 108, 138, 0.14);
+  margin-top: 1rem;
+  padding-top: 1rem;
+}
+
+.result-panel__hint {
+  color: var(--color-muted);
+  font-weight: 700;
+  margin-bottom: 0;
+}

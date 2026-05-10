@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Smartphone", "value": 0.2, "imageUrl": "assets/images/placeholders/object.svg" },
+  { "id": 2, "name": "Ordinateur portable", "value": 1.4, "imageUrl": "assets/images/placeholders/object.svg" },
+  { "id": 3, "name": "Vélo adulte", "value": 14, "imageUrl": "assets/images/placeholders/object.svg" },
+  { "id": 4, "name": "Machine à laver", "value": 70, "imageUrl": "assets/images/placeholders/object.svg" },
+  { "id": 5, "name": "Moto routière", "value": 220, "imageUrl": "assets/images/placeholders/object.svg" },
+  { "id": 6, "name": "Voiture compacte", "value": 1300, "imageUrl": "assets/images/placeholders/object.svg" },
+  { "id": 7, "name": "Éléphant d'Afrique", "value": 6000, "imageUrl": "assets/images/placeholders/object.svg" },
+  { "id": 8, "name": "Bus urbain", "value": 12000, "imageUrl": "assets/images/placeholders/object.svg" },
+  { "id": 9, "name": "Avion Airbus A320", "value": 42000, "imageUrl": "assets/images/placeholders/object.svg" },
+  { "id": 10, "name": "Locomotive électrique", "value": 84000, "imageUrl": "assets/images/placeholders/object.svg" }
+]

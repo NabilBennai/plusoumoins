@@ -1,0 +1,15 @@
+<header class="app-header">
+  <a class="brand" routerLink="/home" aria-label="Retour à l'accueil">
+    <span class="brand__mark">±</span>
+    <span>{{ title }}</span>
+  </a>
+
+  <nav class="main-nav" aria-label="Navigation principale">
+    <a routerLink="/home" routerLinkActive="is-active">Accueil</a>
+    <a routerLink="/categories" routerLinkActive="is-active">Catégories</a>
+  </nav>
+</header>
+
+<main class="app-shell">
+  <router-outlet />
+</main>

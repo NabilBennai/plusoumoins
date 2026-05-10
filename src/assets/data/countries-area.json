@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Russie", "value": 17098242, "imageUrl": "assets/images/placeholders/area.svg" },
+  { "id": 2, "name": "Canada", "value": 9984670, "imageUrl": "assets/images/placeholders/area.svg" },
+  { "id": 3, "name": "Chine", "value": 9596961, "imageUrl": "assets/images/placeholders/area.svg" },
+  { "id": 4, "name": "États-Unis", "value": 9525067, "imageUrl": "assets/images/placeholders/area.svg" },
+  { "id": 5, "name": "Brésil", "value": 8515767, "imageUrl": "assets/images/placeholders/area.svg" },
+  { "id": 6, "name": "Australie", "value": 7692024, "imageUrl": "assets/images/placeholders/area.svg" },
+  { "id": 7, "name": "Inde", "value": 3287263, "imageUrl": "assets/images/placeholders/area.svg" },
+  { "id": 8, "name": "Argentine", "value": 2780400, "imageUrl": "assets/images/placeholders/area.svg" },
+  { "id": 9, "name": "Kazakhstan", "value": 2724900, "imageUrl": "assets/images/placeholders/area.svg" },
+  { "id": 10, "name": "Algérie", "value": 2381741, "imageUrl": "assets/images/placeholders/area.svg" }
+]

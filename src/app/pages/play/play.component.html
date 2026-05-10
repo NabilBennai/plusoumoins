@@ -1,0 +1,46 @@
+@if (isLoading) {
+  <section class="state-card">
+    <p class="eyebrow">Chargement</p>
+    <h1>Préparation de la partie...</h1>
+  </section>
+} @else if (errorMessage) {
+  <section class="state-card state-card--error">
+    <p class="eyebrow">Erreur</p>
+    <h1>Impossible de jouer</h1>
+    <p>{{ errorMessage }}</p>
+    <a class="button button--primary" routerLink="/categories">Retour aux catégories</a>
+  </section>
+} @else if (category && question) {
+  <section class="play-header">
+    <div>
+      <p class="eyebrow">{{ category.name }}</p>
+      <h1>Lequel est le plus {{ category.comparisonLabel }} ?</h1>
+      <p>{{ category.description }}</p>
+    </div>
+    <app-score-board [score]="score" [bestScore]="bestScore" />
+  </section>
+
+  <section class="game-grid" aria-label="Question en cours">
+    <app-game-card title="Référence" [item]="question.left" [valueText]="getLeftValueText()" [revealValue]="true" />
+    <app-game-card title="À deviner" [item]="question.right" [valueText]="getRightValueText()" [revealValue]="!!answerResult" />
+  </section>
+
+  @if (!answerResult) {
+    <section class="answer-panel" aria-label="Choix de réponse">
+      <p>{{ question.right.name }} est-il plus ou moins {{ category.comparisonLabel }} que {{ question.left.name }} ?</p>
+      <div class="answer-panel__actions">
+        <button class="button button--primary" type="button" (click)="answer('plus')">Plus</button>
+        <button class="button button--secondary" type="button" (click)="answer('moins')">Moins</button>
+      </div>
+    </section>
+  } @else {
+    <app-result-panel
+      [isCorrect]="answerResult.isCorrect"
+      [rightValueText]="getRightValueText()"
+      [finalScore]="score"
+      [bestScore]="bestScore"
+      [gameOver]="gameOver"
+      (restart)="restart()"
+    />
+  }
+}

@@ -1,0 +1,8 @@
+<article class="game-card" [class.game-card--hidden]="!revealValue">
+  <img [src]="item.imageUrl" [alt]="item.name" loading="lazy">
+  <div class="game-card__body">
+    <p class="eyebrow">{{ title }}</p>
+    <h2>{{ item.name }}</h2>
+    <p class="game-card__value">{{ revealValue ? valueText : 'Valeur masquée' }}</p>
+  </div>
+</article>
