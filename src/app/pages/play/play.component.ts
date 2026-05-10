@@ -109,6 +109,39 @@ export class PlayComponent implements OnInit, OnDestroy {
     return this.getValueText(this.question?.right.value);
   }
 
+  canChooseCards(): boolean {
+    return !this.answerResult && !this.gameOver;
+  }
+
+  answerFromCard(card: 'left' | 'right'): void {
+    this.answer(card === 'right' ? 'plus' : 'moins');
+  }
+
+  isSelectedCard(card: 'left' | 'right'): boolean {
+    if (!this.answerResult) {
+      return false;
+    }
+
+    return (
+      (card === 'right' && this.answerResult.guess === 'plus') ||
+      (card === 'left' && this.answerResult.guess === 'moins')
+    );
+  }
+
+  getCardResult(card: 'left' | 'right'): 'correct' | 'wrong' | undefined {
+    if (!this.question || !this.answerResult) {
+      return undefined;
+    }
+
+    const correctCard = this.question.right.value >= this.question.left.value ? 'right' : 'left';
+
+    if (card === correctCard) {
+      return 'correct';
+    }
+
+    return this.isSelectedCard(card) ? 'wrong' : undefined;
+  }
+
   private startCategory(category: Category | undefined, items: Item[]): void {
     if (!category) {
       this.showError("Cette catégorie n'existe pas encore.");
