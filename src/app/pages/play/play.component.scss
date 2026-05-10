@@ -2,7 +2,7 @@
   display: grid;
   gap: 1rem;
   grid-template-columns: 1fr;
-  margin-bottom: 1.25rem;
+  margin-bottom: 1.5rem;
 }
 
 .play-header p:not(.eyebrow) {
@@ -12,16 +12,15 @@
 
 .game-grid {
   display: grid;
-  gap: 1rem;
+  gap: 0.75rem;
   grid-template-columns: 1fr;
 }
 
 .answer-panel,
 .state-card {
-  background: linear-gradient(180deg, var(--color-surface-elevated), var(--color-surface));
+  background: var(--color-surface);
   border: 1px solid var(--color-border);
-  border-radius: var(--radius-xl);
-  box-shadow: var(--shadow-soft);
+  border-radius: var(--radius-md);
   margin-top: 1rem;
   padding: clamp(1rem, 4vw, 1.5rem);
 }
@@ -29,24 +28,24 @@
 .answer-panel p,
 .state-card p {
   color: var(--color-muted);
-  font-size: 1.05rem;
+  font-size: 1rem;
 }
 
 .answer-panel__actions {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.8rem;
+  gap: 0.75rem;
   margin-top: 1rem;
 }
 
 .state-card--error {
-  border-color: rgba(255, 93, 108, 0.28);
+  border-color: rgba(255, 59, 78, 0.3);
 }
 
 @media (min-width: 800px) {
   .play-header {
     align-items: end;
-    grid-template-columns: minmax(0, 1fr) 300px;
+    grid-template-columns: minmax(0, 1fr) 280px;
   }
 
   .game-grid {

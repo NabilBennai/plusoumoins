@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Russie",
-    "value": 17098242,
+    "value": 17098246,
     "imageUrl": "assets/images/placeholders/area.svg"
   },
   {
@@ -13,14 +13,14 @@
   },
   {
     "id": 3,
-    "name": "Chine",
-    "value": 9596961,
+    "name": "États-Unis",
+    "value": 9833520,
     "imageUrl": "assets/images/placeholders/area.svg"
   },
   {
     "id": 4,
-    "name": "États-Unis",
-    "value": 9525067,
+    "name": "Chine",
+    "value": 9596961,
     "imageUrl": "assets/images/placeholders/area.svg"
   },
   {
@@ -32,7 +32,7 @@
   {
     "id": 6,
     "name": "Australie",
-    "value": 7692024,
+    "value": 7688287,
     "imageUrl": "assets/images/placeholders/area.svg"
   },
   {
@@ -44,7 +44,7 @@
   {
     "id": 8,
     "name": "Argentine",
-    "value": 2780400,
+    "value": 2780085,
     "imageUrl": "assets/images/placeholders/area.svg"
   },
   {
@@ -62,7 +62,7 @@
   {
     "id": 11,
     "name": "République démocratique du Congo",
-    "value": 2344858,
+    "value": 2345409,
     "imageUrl": "assets/images/placeholders/area.svg"
   },
   {
@@ -74,7 +74,7 @@
   {
     "id": 13,
     "name": "Mexique",
-    "value": 1964375,
+    "value": 1972550,
     "imageUrl": "assets/images/placeholders/area.svg"
   },
   {
@@ -92,7 +92,7 @@
   {
     "id": 16,
     "name": "Libye",
-    "value": 1759540,
+    "value": 1759541,
     "imageUrl": "assets/images/placeholders/area.svg"
   },
   {
@@ -104,7 +104,7 @@
   {
     "id": 18,
     "name": "Mongolie",
-    "value": 1564110,
+    "value": 1564116,
     "imageUrl": "assets/images/placeholders/area.svg"
   },
   {
@@ -116,7 +116,7 @@
   {
     "id": 20,
     "name": "Tchad",
-    "value": 1284000,
+    "value": 1280000,
     "imageUrl": "assets/images/placeholders/area.svg"
   },
   {
@@ -164,49 +164,49 @@
   {
     "id": 28,
     "name": "Mauritanie",
-    "value": 1030700,
+    "value": 1030000,
     "imageUrl": "assets/images/placeholders/area.svg"
   },
   {
     "id": 29,
     "name": "Égypte",
-    "value": 1002450,
+    "value": 1010048,
     "imageUrl": "assets/images/placeholders/area.svg"
   },
   {
     "id": 30,
     "name": "Tanzanie",
-    "value": 945087,
+    "value": 947303,
     "imageUrl": "assets/images/placeholders/area.svg"
   },
   {
     "id": 31,
     "name": "Nigeria",
-    "value": 923768,
+    "value": 923769,
     "imageUrl": "assets/images/placeholders/area.svg"
   },
   {
     "id": 32,
     "name": "Venezuela",
-    "value": 916445,
+    "value": 912050,
     "imageUrl": "assets/images/placeholders/area.svg"
   },
   {
     "id": 33,
-    "name": "Namibie",
-    "value": 825615,
+    "name": "Pakistan",
+    "value": 881913,
     "imageUrl": "assets/images/placeholders/area.svg"
   },
   {
     "id": 34,
-    "name": "Mozambique",
-    "value": 801590,
+    "name": "Namibie",
+    "value": 825605,
     "imageUrl": "assets/images/placeholders/area.svg"
   },
   {
     "id": 35,
-    "name": "Pakistan",
-    "value": 796095,
+    "name": "Mozambique",
+    "value": 801590,
     "imageUrl": "assets/images/placeholders/area.svg"
   },
   {
@@ -224,7 +224,7 @@
   {
     "id": 38,
     "name": "Zambie",
-    "value": 752612,
+    "value": 752617,
     "imageUrl": "assets/images/placeholders/area.svg"
   },
   {
@@ -236,7 +236,937 @@
   {
     "id": 40,
     "name": "Afghanistan",
-    "value": 652230,
+    "value": 652864,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 41,
+    "name": "Soudan du Sud",
+    "value": 644329,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 42,
+    "name": "Somalie",
+    "value": 637657,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 43,
+    "name": "France",
+    "value": 632702,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 44,
+    "name": "République centrafricaine",
+    "value": 622984,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 45,
+    "name": "Ukraine",
+    "value": 603550,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 46,
+    "name": "Madagascar",
+    "value": 592796,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 47,
+    "name": "Botswana",
+    "value": 581730,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 48,
+    "name": "Kenya",
+    "value": 580367,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 49,
+    "name": "Thaïlande",
+    "value": 513120,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 50,
+    "name": "Espagne",
+    "value": 506030,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 51,
+    "name": "Turkménistan",
+    "value": 491210,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 52,
+    "name": "Cameroun",
+    "value": 475442,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 53,
+    "name": "Papouasie-Nouvelle-Guinée",
+    "value": 462840,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 54,
+    "name": "Yémen",
+    "value": 455503,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 55,
+    "name": "Suède",
+    "value": 450295,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 56,
+    "name": "Ouzbékistan",
+    "value": 448978,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 57,
+    "name": "Maroc",
+    "value": 446550,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 58,
+    "name": "Irak",
+    "value": 438317,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 59,
+    "name": "Paraguay",
+    "value": 406752,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 60,
+    "name": "Zimbabwe",
+    "value": 390757,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 61,
+    "name": "Norvège",
+    "value": 385207,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 62,
+    "name": "Japon",
+    "value": 377975,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 63,
+    "name": "Allemagne",
+    "value": 357022,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 64,
+    "name": "République du Congo",
+    "value": 342000,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 65,
+    "name": "Finlande",
+    "value": 338455,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 66,
+    "name": "Vietnam",
+    "value": 331344,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 67,
+    "name": "Malaisie",
+    "value": 330803,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 68,
+    "name": "Côte d'Ivoire",
+    "value": 322462,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 69,
+    "name": "Oman",
+    "value": 315331,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 70,
+    "name": "Pologne",
+    "value": 312696,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 71,
+    "name": "Italie",
+    "value": 301340,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 72,
+    "name": "Philippines",
+    "value": 300000,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 73,
+    "name": "Équateur",
+    "value": 283561,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 74,
+    "name": "Burkina Faso",
+    "value": 274223,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 75,
+    "name": "Gabon",
+    "value": 267668,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 76,
+    "name": "Nouvelle-Zélande",
+    "value": 263310,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 77,
+    "name": "Guinée",
+    "value": 245857,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 78,
+    "name": "Royaume-Uni",
+    "value": 244376,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 79,
+    "name": "Ouganda",
+    "value": 241038,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 80,
+    "name": "Ghana",
+    "value": 239567,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 81,
+    "name": "Roumanie",
+    "value": 238397,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 82,
+    "name": "Laos",
+    "value": 236800,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 83,
+    "name": "Guyana",
+    "value": 214969,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 84,
+    "name": "Biélorussie",
+    "value": 207600,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 85,
+    "name": "Kirghizistan",
+    "value": 200105,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 86,
+    "name": "Sénégal",
+    "value": 196722,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 87,
+    "name": "Syrie",
+    "value": 185180,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 88,
+    "name": "Cambodge",
+    "value": 181035,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 89,
+    "name": "Uruguay",
+    "value": 176215,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 90,
+    "name": "Suriname",
+    "value": 165940,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 91,
+    "name": "Tunisie",
+    "value": 163610,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 92,
+    "name": "Portugal",
+    "value": 156597,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 93,
+    "name": "Bangladesh",
+    "value": 148460,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 94,
+    "name": "Népal",
+    "value": 147516,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 95,
+    "name": "Tadjikistan",
+    "value": 143100,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 96,
+    "name": "Grèce",
+    "value": 131957,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 97,
+    "name": "Nicaragua",
+    "value": 130370,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 98,
+    "name": "Corée du Nord",
+    "value": 120538,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 99,
+    "name": "Malawi",
+    "value": 118484,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 100,
+    "name": "Érythrée",
+    "value": 117600,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 101,
+    "name": "Bénin",
+    "value": 112722,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 102,
+    "name": "Honduras",
+    "value": 112492,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 103,
+    "name": "Liberia",
+    "value": 111369,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 104,
+    "name": "Bulgarie",
+    "value": 110994,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 105,
+    "name": "Cuba",
+    "value": 110860,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 106,
+    "name": "Guatemala",
+    "value": 108889,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 107,
+    "name": "Islande",
+    "value": 103125,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 108,
+    "name": "Corée du Sud",
+    "value": 100472,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 109,
+    "name": "Hongrie",
+    "value": 93030,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 110,
+    "name": "Jordanie",
+    "value": 89342,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 111,
+    "name": "Serbie",
+    "value": 88499,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 112,
+    "name": "Azerbaïdjan",
+    "value": 86600,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 113,
+    "name": "Autriche",
+    "value": 83879,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 114,
+    "name": "Émirats arabes unis",
+    "value": 83600,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 115,
+    "name": "Tchéquie",
+    "value": 78871,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 116,
+    "name": "Panama",
+    "value": 75417,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 117,
+    "name": "Sierra Leone",
+    "value": 73252,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 118,
+    "name": "Irlande",
+    "value": 70273,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 119,
+    "name": "Géorgie",
+    "value": 69700,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 120,
+    "name": "Sri Lanka",
+    "value": 67240,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 121,
+    "name": "Lituanie",
+    "value": 65300,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 122,
+    "name": "Lettonie",
+    "value": 64589,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 123,
+    "name": "Togo",
+    "value": 56785,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 124,
+    "name": "Croatie",
+    "value": 56591,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 125,
+    "name": "Bosnie-Herzégovine",
+    "value": 51209,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 126,
+    "name": "Costa Rica",
+    "value": 51180,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 127,
+    "name": "Slovaquie",
+    "value": 49035,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 128,
+    "name": "République dominicaine",
+    "value": 48671,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 129,
+    "name": "Estonie",
+    "value": 45335,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 130,
+    "name": "Danemark",
+    "value": 43049,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 131,
+    "name": "Pays-Bas",
+    "value": 41865,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 132,
+    "name": "Suisse",
+    "value": 41291,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 133,
+    "name": "Bhoutan",
+    "value": 38395,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 134,
+    "name": "Guinée-Bissau",
+    "value": 36125,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 135,
+    "name": "Moldavie",
+    "value": 33843,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 136,
+    "name": "Belgique",
+    "value": 30689,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 137,
+    "name": "Lesotho",
+    "value": 30355,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 138,
+    "name": "Arménie",
+    "value": 29743,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 139,
+    "name": "Îles Salomon",
+    "value": 28896,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 140,
+    "name": "Albanie",
+    "value": 28748,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 141,
+    "name": "Guinée équatoriale",
+    "value": 28050,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 142,
+    "name": "Burundi",
+    "value": 27834,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 143,
+    "name": "Haïti",
+    "value": 27700,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 144,
+    "name": "Rwanda",
+    "value": 26338,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 145,
+    "name": "Macédoine du Nord",
+    "value": 25436,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 146,
+    "name": "Djibouti",
+    "value": 23200,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 147,
+    "name": "Belize",
+    "value": 22966,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 148,
+    "name": "Israël",
+    "value": 22702,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 149,
+    "name": "Salvador",
+    "value": 21041,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 150,
+    "name": "Slovénie",
+    "value": 20272,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 151,
+    "name": "Fidji",
+    "value": 18274,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 152,
+    "name": "Koweït",
+    "value": 17818,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 153,
+    "name": "Eswatini",
+    "value": 17364,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 154,
+    "name": "Timor oriental",
+    "value": 15007,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 155,
+    "name": "Monténégro",
+    "value": 13883,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 156,
+    "name": "Bahamas",
+    "value": 13880,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 157,
+    "name": "Vanuatu",
+    "value": 12189,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 158,
+    "name": "Qatar",
+    "value": 11581,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 159,
+    "name": "Gambie",
+    "value": 11300,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 160,
+    "name": "Jamaïque",
+    "value": 10991,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 161,
+    "name": "Liban",
+    "value": 10452,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 162,
+    "name": "Chypre",
+    "value": 9251,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 163,
+    "name": "Palestine",
+    "value": 6020,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 164,
+    "name": "Brunei",
+    "value": 5765,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 165,
+    "name": "Trinité-et-Tobago",
+    "value": 5131,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 166,
+    "name": "Cap-Vert",
+    "value": 4033,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 167,
+    "name": "Samoa",
+    "value": 2831,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 168,
+    "name": "Luxembourg",
+    "value": 2586,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 169,
+    "name": "Comores",
+    "value": 2235,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 170,
+    "name": "Maurice",
+    "value": 2040,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 171,
+    "name": "Sao Tomé-et-Principe",
+    "value": 964,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 172,
+    "name": "Kiribati",
+    "value": 811,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 173,
+    "name": "Bahreïn",
+    "value": 787,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 174,
+    "name": "Dominique",
+    "value": 750,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 175,
+    "name": "Tonga",
+    "value": 748,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 176,
+    "name": "Singapour",
+    "value": 744,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 177,
+    "name": "Micronésie",
+    "value": 702,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 178,
+    "name": "Sainte-Lucie",
+    "value": 617,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 179,
+    "name": "Andorre",
+    "value": 468,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 180,
+    "name": "Palaos",
+    "value": 459,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 181,
+    "name": "Seychelles",
+    "value": 457,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 182,
+    "name": "Antigua-et-Barbuda",
+    "value": 440,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 183,
+    "name": "Barbade",
+    "value": 439,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 184,
+    "name": "Saint-Vincent-et-les-Grenadines",
+    "value": 389,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 185,
+    "name": "Grenade",
+    "value": 344,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 186,
+    "name": "Malte",
+    "value": 316,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 187,
+    "name": "Maldives",
+    "value": 298,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 188,
+    "name": "Saint-Christophe-et-Niévès",
+    "value": 261,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 189,
+    "name": "Îles Marshall",
+    "value": 181,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 190,
+    "name": "Liechtenstein",
+    "value": 161,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 191,
+    "name": "Saint-Marin",
+    "value": 61,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 192,
+    "name": "Tuvalu",
+    "value": 26,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 193,
+    "name": "Nauru",
+    "value": 21,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 194,
+    "name": "Monaco",
+    "value": 2.1,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 195,
+    "name": "Vatican",
+    "value": 0.49,
     "imageUrl": "assets/images/placeholders/area.svg"
   }
 ]

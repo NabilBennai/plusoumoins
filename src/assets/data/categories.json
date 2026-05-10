@@ -30,5 +30,13 @@
     "description": "Compare le poids approximatif d'objets du quotidien et de machines.",
     "unit": "kg",
     "comparisonLabel": "lourd"
+  },
+  {
+    "id": 5,
+    "name": "Animaux les plus rapides",
+    "slug": "animal-speeds",
+    "description": "Devine quel animal est le plus rapide parmi 79 espèces.",
+    "unit": "km/h",
+    "comparisonLabel": "rapide"
   }
 ]

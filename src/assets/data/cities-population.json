@@ -31,7 +31,7 @@
   },
   {
     "id": 6,
-    "name": "Mexico",
+    "name": "Mexico City",
     "value": 22200000,
     "imageUrl": "assets/images/placeholders/city.svg"
   },
@@ -157,7 +157,7 @@
   },
   {
     "id": 27,
-    "name": "Bogota",
+    "name": "Bogotá",
     "value": 11600000,
     "imageUrl": "assets/images/placeholders/city.svg"
   },
@@ -237,6 +237,366 @@
     "id": 40,
     "name": "Toronto",
     "value": 6400000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 41,
+    "name": "Los Angeles",
+    "value": 3980000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 42,
+    "name": "Chicago",
+    "value": 2710000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 43,
+    "name": "Berlin",
+    "value": 3850000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 44,
+    "name": "Rome",
+    "value": 2870000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 45,
+    "name": "Amsterdam",
+    "value": 920000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 46,
+    "name": "Bruxelles",
+    "value": 1230000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 47,
+    "name": "Lisbonne",
+    "value": 545000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 48,
+    "name": "Barcelone",
+    "value": 5600000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 49,
+    "name": "Vienne",
+    "value": 2010000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 50,
+    "name": "Prague",
+    "value": 1380000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 51,
+    "name": "Varsovie",
+    "value": 1860000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 52,
+    "name": "Budapest",
+    "value": 1750000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 53,
+    "name": "Athènes",
+    "value": 3150000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 54,
+    "name": "Dubaï",
+    "value": 3600000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 55,
+    "name": "Doha",
+    "value": 1180000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 56,
+    "name": "Riyad",
+    "value": 7700000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 57,
+    "name": "Casablanca",
+    "value": 3700000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 58,
+    "name": "Alger",
+    "value": 3910000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 59,
+    "name": "Tunis",
+    "value": 1050000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 60,
+    "name": "Nairobi",
+    "value": 5540000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 61,
+    "name": "Johannesburg",
+    "value": 5630000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 62,
+    "name": "Cape Town",
+    "value": 4800000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 63,
+    "name": "Montréal",
+    "value": 4300000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 64,
+    "name": "Vancouver",
+    "value": 2700000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 65,
+    "name": "Sydney",
+    "value": 5300000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 66,
+    "name": "Melbourne",
+    "value": 5100000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 67,
+    "name": "Auckland",
+    "value": 1700000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 68,
+    "name": "Singapour",
+    "value": 5900000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 69,
+    "name": "Kuala Lumpur",
+    "value": 8900000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 70,
+    "name": "Hanoï",
+    "value": 8500000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 71,
+    "name": "Phnom Penh",
+    "value": 2300000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 72,
+    "name": "Tokyo",
+    "value": 37400000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 73,
+    "name": "Kyoto",
+    "value": 1460000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 74,
+    "name": "Nagoya",
+    "value": 2300000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 75,
+    "name": "San Francisco",
+    "value": 815000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 76,
+    "name": "Miami",
+    "value": 455000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 77,
+    "name": "Dallas",
+    "value": 1300000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 78,
+    "name": "Houston",
+    "value": 2300000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 79,
+    "name": "Washington",
+    "value": 690000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 80,
+    "name": "Boston",
+    "value": 675000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 81,
+    "name": "Munich",
+    "value": 1490000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 82,
+    "name": "Hambourg",
+    "value": 1890000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 83,
+    "name": "Copenhague",
+    "value": 805000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 84,
+    "name": "Stockholm",
+    "value": 980000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 85,
+    "name": "Oslo",
+    "value": 710000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 86,
+    "name": "Helsinki",
+    "value": 670000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 87,
+    "name": "Dublin",
+    "value": 592000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 88,
+    "name": "Zurich",
+    "value": 435000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 89,
+    "name": "Genève",
+    "value": 205000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 90,
+    "name": "Milan",
+    "value": 1370000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 91,
+    "name": "Naples",
+    "value": 910000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 92,
+    "name": "Athènes",
+    "value": 3150000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 93,
+    "name": "Santiago",
+    "value": 6200000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 94,
+    "name": "Caracas",
+    "value": 2900000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 95,
+    "name": "Quito",
+    "value": 2800000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 96,
+    "name": "La Paz",
+    "value": 1800000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 97,
+    "name": "San José",
+    "value": 1600000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 98,
+    "name": "Panama City",
+    "value": 1500000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 99,
+    "name": "San Juan",
+    "value": 320000,
+    "imageUrl": "assets/images/placeholders/city.svg"
+  },
+  {
+    "id": 100,
+    "name": "Reykjavik",
+    "value": 140000,
     "imageUrl": "assets/images/placeholders/city.svg"
   }
 ]

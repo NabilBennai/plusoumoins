@@ -1,0 +1,476 @@
+[
+  {
+    "id": 1,
+    "name": "Escargot",
+    "value": 0.05,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 2,
+    "name": "Étoile de mer",
+    "value": 0.1,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 3,
+    "name": "Paresseux",
+    "value": 0.27,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 4,
+    "name": "Tortue terrestre",
+    "value": 0.3,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 5,
+    "name": "Fourmi",
+    "value": 0.3,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 6,
+    "name": "Hippocampe",
+    "value": 1.5,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 7,
+    "name": "Méduse",
+    "value": 2,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 8,
+    "name": "Ver de terre",
+    "value": 2,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 9,
+    "name": "Moustique",
+    "value": 2.4,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 10,
+    "name": "Crabe",
+    "value": 3,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 11,
+    "name": "Poisson rouge",
+    "value": 5,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 12,
+    "name": "Cafard",
+    "value": 5.4,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 13,
+    "name": "Mouche",
+    "value": 8,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 14,
+    "name": "Koala",
+    "value": 10,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 15,
+    "name": "Manchot empereur",
+    "value": 12,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 16,
+    "name": "Souris",
+    "value": 13,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 17,
+    "name": "Rat",
+    "value": 13,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 18,
+    "name": "Sauterelle",
+    "value": 13,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 19,
+    "name": "Poulet",
+    "value": 14,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 20,
+    "name": "Canard",
+    "value": 15,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 21,
+    "name": "Hérisson",
+    "value": 15,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 22,
+    "name": "Grenouille",
+    "value": 16,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 23,
+    "name": "Cochon",
+    "value": 17,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 24,
+    "name": "Crocodile",
+    "value": 17,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 25,
+    "name": "Cobra",
+    "value": 19,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 26,
+    "name": "Serpent",
+    "value": 20,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 27,
+    "name": "Varan de Komodo",
+    "value": 20,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 28,
+    "name": "Abeille",
+    "value": 24,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 29,
+    "name": "Éléphant d’Afrique",
+    "value": 25,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 30,
+    "name": "Hippopotame",
+    "value": 30,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 31,
+    "name": "Saumon",
+    "value": 32,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 32,
+    "name": "Iguane",
+    "value": 34,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 33,
+    "name": "Caméléon",
+    "value": 35,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 34,
+    "name": "Ours brun",
+    "value": 40,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 35,
+    "name": "Gorille",
+    "value": 40,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 36,
+    "name": "Sanglier",
+    "value": 40,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 37,
+    "name": "Dinde sauvage",
+    "value": 40,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 38,
+    "name": "Pieuvre",
+    "value": 40,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 39,
+    "name": "Calmar",
+    "value": 40,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 40,
+    "name": "Chat domestique",
+    "value": 48,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 41,
+    "name": "Papillon monarque",
+    "value": 48,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 42,
+    "name": "Renard",
+    "value": 50,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 43,
+    "name": "Émeu",
+    "value": 50,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 44,
+    "name": "Baleine bleue",
+    "value": 50,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 45,
+    "name": "Libellule",
+    "value": 50,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 46,
+    "name": "Bison",
+    "value": 55,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 47,
+    "name": "Rhinocéros",
+    "value": 55,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 48,
+    "name": "Lapin",
+    "value": 56,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 49,
+    "name": "Élan",
+    "value": 56,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 50,
+    "name": "Requin blanc",
+    "value": 56,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 51,
+    "name": "Orque",
+    "value": 56,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 52,
+    "name": "Léopard",
+    "value": 58,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 53,
+    "name": "Girafe",
+    "value": 60,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 54,
+    "name": "Loup",
+    "value": 60,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 55,
+    "name": "Hyène",
+    "value": 60,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 56,
+    "name": "Dauphin",
+    "value": 60,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 57,
+    "name": "Chameau",
+    "value": 65,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 58,
+    "name": "Zèbre",
+    "value": 65,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 59,
+    "name": "Tigre",
+    "value": 65,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 60,
+    "name": "Hibou grand-duc",
+    "value": 65,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 61,
+    "name": "Kangourou",
+    "value": 70,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 62,
+    "name": "Cerf",
+    "value": 70,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 63,
+    "name": "Autruche",
+    "value": 70,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 64,
+    "name": "Thon rouge",
+    "value": 70,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 65,
+    "name": "Chien lévrier",
+    "value": 72,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 66,
+    "name": "Lion",
+    "value": 80,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 67,
+    "name": "Colibri",
+    "value": 80,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 68,
+    "name": "Cheval",
+    "value": 88,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 69,
+    "name": "Oie",
+    "value": 90,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 70,
+    "name": "Antilope",
+    "value": 95,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 71,
+    "name": "Cygne",
+    "value": 95,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 72,
+    "name": "Gazelle",
+    "value": 97,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 73,
+    "name": "Guépard",
+    "value": 110,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 74,
+    "name": "Espadon voilier",
+    "value": 110,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 75,
+    "name": "Albatros",
+    "value": 127,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 76,
+    "name": "Marlin noir",
+    "value": 130,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 77,
+    "name": "Pigeon",
+    "value": 150,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 78,
+    "name": "Aigle royal",
+    "value": 320,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  },
+  {
+    "id": 79,
+    "name": "Faucon pèlerin",
+    "value": 390,
+    "imageUrl": "assets/images/placeholders/speed.svg"
+  }
+]

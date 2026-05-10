@@ -1,242 +1,974 @@
 [
   {
     "id": 1,
+    "name": "Trombone",
+    "value": 0.001,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 2,
+    "name": "Pièce de 1 centime",
+    "value": 0.0023,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 3,
+    "name": "Carte bancaire",
+    "value": 0.005,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 4,
+    "name": "Clé de maison",
+    "value": 0.01,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 5,
+    "name": "Stylo bille",
+    "value": 0.01,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 6,
+    "name": "Canette vide",
+    "value": 0.015,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 7,
+    "name": "Brosse à dents",
+    "value": 0.02,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 8,
+    "name": "Pile AA",
+    "value": 0.024,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 9,
+    "name": "Souris d’ordinateur",
+    "value": 0.09,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 10,
+    "name": "Télécommande",
+    "value": 0.12,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 11,
+    "name": "Banane",
+    "value": 0.12,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 12,
+    "name": "Pomme",
+    "value": 0.18,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 13,
+    "name": "Orange",
+    "value": 0.2,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 14,
     "name": "Smartphone",
     "value": 0.2,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 2,
+    "id": 15,
+    "name": "Casque audio",
+    "value": 0.25,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 16,
+    "name": "Manette de jeu",
+    "value": 0.28,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 17,
     "name": "Livre de poche",
     "value": 0.3,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 3,
+    "id": 18,
+    "name": "Raquette de tennis",
+    "value": 0.3,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 19,
+    "name": "Mug en céramique",
+    "value": 0.35,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 20,
+    "name": "Canette pleine",
+    "value": 0.37,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 21,
+    "name": "Ballon de football",
+    "value": 0.43,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 22,
     "name": "Tablette",
     "value": 0.5,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 4,
+    "id": 23,
+    "name": "Bouteille d’eau 50 cl",
+    "value": 0.52,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 24,
+    "name": "Enceinte Bluetooth",
+    "value": 0.7,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 25,
+    "name": "Sac à main",
+    "value": 1.0,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 26,
+    "name": "Bouteille de vin pleine",
+    "value": 1.2,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 27,
     "name": "Ordinateur portable",
     "value": 1.4,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 5,
+    "id": 28,
+    "name": "Dictionnaire",
+    "value": 1.5,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 29,
+    "name": "Réchaud de camping",
+    "value": 1.5,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 30,
+    "name": "Casque de moto",
+    "value": 1.6,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 31,
+    "name": "Guitare acoustique",
+    "value": 2.5,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 32,
+    "name": "Valise cabine vide",
+    "value": 3,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 33,
+    "name": "Tente 2 places",
+    "value": 3,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 34,
+    "name": "Planche de surf",
+    "value": 3,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 35,
+    "name": "Guitare électrique",
+    "value": 4,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 36,
+    "name": "Scanner",
+    "value": 4,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 37,
+    "name": "Snowboard",
+    "value": 4,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 38,
     "name": "Chat domestique",
     "value": 4.5,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 6,
+    "id": 39,
+    "name": "Pastèque",
+    "value": 5.0,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 40,
+    "name": "Machine à café",
+    "value": 5,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 41,
+    "name": "Skis alpins",
+    "value": 5,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 42,
+    "name": "Aspirateur",
+    "value": 6.0,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 43,
+    "name": "Extincteur",
+    "value": 6,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 44,
+    "name": "Pack de lait 6 bouteilles",
+    "value": 6.5,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 45,
+    "name": "Boule de bowling",
+    "value": 7,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 46,
+    "name": "Imprimante de bureau",
+    "value": 8,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 47,
+    "name": "Échelle aluminium",
+    "value": 8,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 48,
     "name": "Pack de six bouteilles d’eau",
     "value": 9,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 7,
+    "id": 49,
+    "name": "Vélo enfant",
+    "value": 10,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 50,
+    "name": "Paddle gonflable",
+    "value": 10,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 51,
+    "name": "Poussette",
+    "value": 10,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 52,
+    "name": "Sac de riz 10 kg",
+    "value": 10,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 53,
+    "name": "Four micro-ondes",
+    "value": 12,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 54,
+    "name": "Amplificateur guitare",
+    "value": 12,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 55,
+    "name": "Hoverboard",
+    "value": 12,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 56,
     "name": "Vélo adulte",
     "value": 14,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 8,
+    "id": 57,
+    "name": "Chaise de bureau",
+    "value": 15,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 58,
+    "name": "Trottinette électrique",
+    "value": 15,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 59,
+    "name": "Batterie de voiture",
+    "value": 15,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 60,
+    "name": "Pare-brise",
+    "value": 15,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 61,
+    "name": "Brouette",
+    "value": 15,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 62,
     "name": "Valise cabine remplie",
     "value": 18,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 9,
-    "name": "Chien labrador",
-    "value": 30,
-    "imageUrl": "assets/images/placeholders/object.svg"
-  },
-  {
-    "id": 10,
+    "id": 63,
     "name": "Téléviseur 55 pouces",
     "value": 19,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 11,
+    "id": 64,
+    "name": "Barbecue charbon",
+    "value": 20,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 65,
+    "name": "Kayak monoplace",
+    "value": 20,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 66,
+    "name": "Lit bébé",
+    "value": 20,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 67,
+    "name": "Roue de voiture",
+    "value": 20,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 68,
+    "name": "Ancre de bateau",
+    "value": 20,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 69,
+    "name": "Sac de ciment",
+    "value": 25,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 70,
+    "name": "Porte de voiture",
+    "value": 25,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 71,
+    "name": "Bouteille de gaz propane",
+    "value": 27,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 72,
+    "name": "Chien labrador",
+    "value": 30,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 73,
+    "name": "Tondeuse thermique",
+    "value": 30,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 74,
+    "name": "Chien berger allemand",
+    "value": 35,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 75,
+    "name": "Bureau en bois",
+    "value": 35,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 76,
+    "name": "Matelas deux places",
+    "value": 35,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 77,
+    "name": "Table à manger",
+    "value": 45,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 78,
+    "name": "Commode",
+    "value": 45,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 79,
+    "name": "Groupe électrogène",
+    "value": 45,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 80,
+    "name": "Lave-vaisselle",
+    "value": 50,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 81,
+    "name": "Congélateur coffre",
+    "value": 60,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 82,
+    "name": "Bibliothèque",
+    "value": 60,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 83,
+    "name": "Boîte de vitesses",
+    "value": 60,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 84,
+    "name": "Bétonnière",
+    "value": 60,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 85,
+    "name": "Canapé deux places",
+    "value": 65,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 86,
     "name": "Machine à laver",
     "value": 70,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 12,
-    "name": "Réfrigérateur",
-    "value": 90,
+    "id": 87,
+    "name": "Lit double",
+    "value": 70,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 13,
-    "name": "Scooter",
-    "value": 110,
+    "id": 88,
+    "name": "Armoire",
+    "value": 80,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 14,
-    "name": "Piano droit",
-    "value": 200,
-    "imageUrl": "assets/images/placeholders/object.svg"
-  },
-  {
-    "id": 15,
-    "name": "Moto routière",
-    "value": 220,
-    "imageUrl": "assets/images/placeholders/object.svg"
-  },
-  {
-    "id": 16,
-    "name": "Tondeuse autoportée",
-    "value": 250,
-    "imageUrl": "assets/images/placeholders/object.svg"
-  },
-  {
-    "id": 17,
+    "id": 89,
     "name": "Canapé trois places",
     "value": 85,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 18,
+    "id": 90,
+    "name": "Réfrigérateur",
+    "value": 90,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 91,
+    "name": "Moto cross",
+    "value": 105,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 92,
+    "name": "Scooter",
+    "value": 110,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 93,
     "name": "Bateau pneumatique",
     "value": 120,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 19,
+    "id": 94,
+    "name": "Coffre-fort domestique",
+    "value": 150,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 95,
+    "name": "Moteur de voiture",
+    "value": 180,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 96,
+    "name": "Piano droit",
+    "value": 200,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 97,
+    "name": "Moto routière",
+    "value": 220,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 98,
+    "name": "Tondeuse autoportée",
+    "value": 250,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 99,
+    "name": "Quad",
+    "value": 300,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 100,
+    "name": "Billard américain",
+    "value": 350,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 101,
+    "name": "Ours brun",
+    "value": 350,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 102,
     "name": "Cheval adulte",
     "value": 500,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 20,
+    "id": 103,
+    "name": "Dromadaire",
+    "value": 600,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 104,
+    "name": "Vache adulte",
+    "value": 650,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 105,
+    "name": "Avion Cessna 172",
+    "value": 760,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 106,
+    "name": "Palette de carrelage",
+    "value": 900,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 107,
+    "name": "Rover martien",
+    "value": 1025,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 108,
+    "name": "Voiture citadine",
+    "value": 1100,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 109,
+    "name": "Requin blanc",
+    "value": 1100,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 110,
     "name": "Palette de briques",
     "value": 1200,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 21,
+    "id": 111,
+    "name": "Girafe adulte",
+    "value": 1200,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 112,
     "name": "Voiture compacte",
     "value": 1300,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 22,
-    "name": "Fourgonnette",
-    "value": 2200,
-    "imageUrl": "assets/images/placeholders/object.svg"
-  },
-  {
-    "id": 23,
-    "name": "Rhinocéros blanc",
-    "value": 2300,
-    "imageUrl": "assets/images/placeholders/object.svg"
-  },
-  {
-    "id": 24,
-    "name": "Camion de livraison",
-    "value": 3500,
-    "imageUrl": "assets/images/placeholders/object.svg"
-  },
-  {
-    "id": 25,
+    "id": 113,
     "name": "Hippopotame",
     "value": 1500,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 26,
+    "id": 114,
+    "name": "Hélicoptère léger",
+    "value": 1500,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 115,
+    "name": "SUV familial",
+    "value": 1800,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 116,
+    "name": "Satellite météo",
+    "value": 2000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 117,
+    "name": "Fourgonnette",
+    "value": 2200,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 118,
+    "name": "Conteneur maritime vide 20 pieds",
+    "value": 2200,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 119,
+    "name": "Rhinocéros blanc",
+    "value": 2300,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 120,
+    "name": "Camion de livraison",
+    "value": 3500,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 121,
+    "name": "Ambulance",
+    "value": 3500,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 122,
+    "name": "Camping-car",
+    "value": 3500,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 123,
+    "name": "Éléphant d’Asie",
+    "value": 5000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 124,
     "name": "Éléphant d’Afrique",
     "value": 6000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 27,
+    "id": 125,
+    "name": "Orque",
+    "value": 6000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 126,
     "name": "Tracteur agricole",
     "value": 7000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 28,
+    "id": 127,
+    "name": "Nacelle élévatrice",
+    "value": 7000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 128,
+    "name": "Hélicoptère de transport",
+    "value": 10000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 129,
+    "name": "Bus scolaire",
+    "value": 11000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 130,
+    "name": "Télescope spatial Hubble",
+    "value": 11110,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 131,
     "name": "Bus urbain",
     "value": 12000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 29,
+    "id": 132,
+    "name": "Rouleau compresseur",
+    "value": 12000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 133,
     "name": "Camion benne",
     "value": 14000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 30,
+    "id": 134,
+    "name": "Semi-remorque vide",
+    "value": 15000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 135,
+    "name": "Chargeuse sur pneus",
+    "value": 16000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 136,
+    "name": "Camion poubelle",
+    "value": 18000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 137,
+    "name": "Bulldozer",
+    "value": 18000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 138,
+    "name": "Pelleteuse",
+    "value": 20000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 139,
+    "name": "Conteneur maritime chargé 20 pieds",
+    "value": 24000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 140,
     "name": "Wagon de métro",
     "value": 30000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 31,
-    "name": "Avion Airbus A320",
+    "id": 141,
+    "name": "Baleine à bosse",
+    "value": 30000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 142,
+    "name": "Semi-remorque chargé",
+    "value": 40000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 143,
+    "name": "Tramway",
+    "value": 40000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 144,
+    "name": "Avion Airbus A320 vide",
     "value": 42000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 32,
+    "id": 145,
     "name": "Char de combat",
     "value": 62000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 33,
+    "id": 146,
     "name": "Locomotive électrique",
     "value": 84000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 34,
+    "id": 147,
     "name": "Baleine bleue",
     "value": 150000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 35,
-    "name": "Fusée Falcon 9 au décollage",
-    "value": 549000,
+    "id": 148,
+    "name": "Grue de chantier",
+    "value": 180000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 36,
+    "id": 149,
+    "name": "Avion Boeing 747 vide",
+    "value": 183500,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 150,
     "name": "Statue de la Liberté",
     "value": 225000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 37,
-    "name": "Tour Eiffel",
-    "value": 10100000,
+    "id": 151,
+    "name": "Avion Airbus A380 vide",
+    "value": 277000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 38,
-    "name": "Porte-conteneurs géant",
-    "value": 200000000,
-    "imageUrl": "assets/images/placeholders/object.svg"
-  },
-  {
-    "id": 39,
+    "id": 152,
     "name": "Train à grande vitesse",
     "value": 390000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
-    "id": 40,
-    "name": "Grue de chantier",
-    "value": 180000,
+    "id": 153,
+    "name": "Grande roue",
+    "value": 400000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 154,
+    "name": "Station spatiale internationale",
+    "value": 420000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 155,
+    "name": "Fusée Falcon 9 au décollage",
+    "value": 549000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 156,
+    "name": "Navette spatiale au décollage",
+    "value": 2030000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 157,
+    "name": "Sous-marin nucléaire",
+    "value": 6000000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 158,
+    "name": "Tour Eiffel",
+    "value": 10100000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 159,
+    "name": "Pont suspendu moyen",
+    "value": 50000000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 160,
+    "name": "Porte-conteneurs géant",
+    "value": 200000000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 161,
+    "name": "Navire de croisière",
+    "value": 225000000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 162,
+    "name": "Pétrolier géant",
+    "value": 300000000,
     "imageUrl": "assets/images/placeholders/object.svg"
   }
 ]
