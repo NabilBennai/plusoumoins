@@ -1,8 +1,23 @@
-<article class="game-card" [class.game-card--hidden]="!revealValue">
+<article
+  class="game-card"
+  [class.game-card--hidden]="!revealValue"
+  [class.game-card--clickable]="clickable"
+  [class.game-card--selected]="selected"
+  [class.game-card--correct]="result === 'correct'"
+  [class.game-card--wrong]="result === 'wrong'"
+  [attr.role]="clickable ? 'button' : null"
+  [attr.tabindex]="clickable ? 0 : null"
+  (click)="selectCard()"
+  (keyup.enter)="selectCard()"
+  (keyup.space)="selectCard()"
+>
   <img [src]="item.imageUrl" [alt]="item.name" loading="lazy">
   <div class="game-card__body">
     <p class="eyebrow">{{ title }}</p>
     <h2>{{ item.name }}</h2>
     <p class="game-card__value">{{ revealValue ? valueText : 'Valeur masquée' }}</p>
+    @if (clickable) {
+      <p class="game-card__hint">Clique cette carte si tu penses qu’elle est la bonne réponse.</p>
+    }
   </div>
 </article>

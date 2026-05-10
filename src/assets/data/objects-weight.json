@@ -1,12 +1,242 @@
 [
-  { "id": 1, "name": "Smartphone", "value": 0.2, "imageUrl": "assets/images/placeholders/object.svg" },
-  { "id": 2, "name": "Ordinateur portable", "value": 1.4, "imageUrl": "assets/images/placeholders/object.svg" },
-  { "id": 3, "name": "Vélo adulte", "value": 14, "imageUrl": "assets/images/placeholders/object.svg" },
-  { "id": 4, "name": "Machine à laver", "value": 70, "imageUrl": "assets/images/placeholders/object.svg" },
-  { "id": 5, "name": "Moto routière", "value": 220, "imageUrl": "assets/images/placeholders/object.svg" },
-  { "id": 6, "name": "Voiture compacte", "value": 1300, "imageUrl": "assets/images/placeholders/object.svg" },
-  { "id": 7, "name": "Éléphant d'Afrique", "value": 6000, "imageUrl": "assets/images/placeholders/object.svg" },
-  { "id": 8, "name": "Bus urbain", "value": 12000, "imageUrl": "assets/images/placeholders/object.svg" },
-  { "id": 9, "name": "Avion Airbus A320", "value": 42000, "imageUrl": "assets/images/placeholders/object.svg" },
-  { "id": 10, "name": "Locomotive électrique", "value": 84000, "imageUrl": "assets/images/placeholders/object.svg" }
+  {
+    "id": 1,
+    "name": "Smartphone",
+    "value": 0.2,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 2,
+    "name": "Livre de poche",
+    "value": 0.3,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 3,
+    "name": "Tablette",
+    "value": 0.5,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 4,
+    "name": "Ordinateur portable",
+    "value": 1.4,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 5,
+    "name": "Chat domestique",
+    "value": 4.5,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 6,
+    "name": "Pack de six bouteilles d’eau",
+    "value": 9,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 7,
+    "name": "Vélo adulte",
+    "value": 14,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 8,
+    "name": "Valise cabine remplie",
+    "value": 18,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 9,
+    "name": "Chien labrador",
+    "value": 30,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 10,
+    "name": "Téléviseur 55 pouces",
+    "value": 19,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 11,
+    "name": "Machine à laver",
+    "value": 70,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 12,
+    "name": "Réfrigérateur",
+    "value": 90,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 13,
+    "name": "Scooter",
+    "value": 110,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 14,
+    "name": "Piano droit",
+    "value": 200,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 15,
+    "name": "Moto routière",
+    "value": 220,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 16,
+    "name": "Tondeuse autoportée",
+    "value": 250,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 17,
+    "name": "Canapé trois places",
+    "value": 85,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 18,
+    "name": "Bateau pneumatique",
+    "value": 120,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 19,
+    "name": "Cheval adulte",
+    "value": 500,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 20,
+    "name": "Palette de briques",
+    "value": 1200,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 21,
+    "name": "Voiture compacte",
+    "value": 1300,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 22,
+    "name": "Fourgonnette",
+    "value": 2200,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 23,
+    "name": "Rhinocéros blanc",
+    "value": 2300,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 24,
+    "name": "Camion de livraison",
+    "value": 3500,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 25,
+    "name": "Hippopotame",
+    "value": 1500,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 26,
+    "name": "Éléphant d’Afrique",
+    "value": 6000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 27,
+    "name": "Tracteur agricole",
+    "value": 7000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 28,
+    "name": "Bus urbain",
+    "value": 12000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 29,
+    "name": "Camion benne",
+    "value": 14000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 30,
+    "name": "Wagon de métro",
+    "value": 30000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 31,
+    "name": "Avion Airbus A320",
+    "value": 42000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 32,
+    "name": "Char de combat",
+    "value": 62000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 33,
+    "name": "Locomotive électrique",
+    "value": 84000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 34,
+    "name": "Baleine bleue",
+    "value": 150000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 35,
+    "name": "Fusée Falcon 9 au décollage",
+    "value": 549000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 36,
+    "name": "Statue de la Liberté",
+    "value": 225000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 37,
+    "name": "Tour Eiffel",
+    "value": 10100000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 38,
+    "name": "Porte-conteneurs géant",
+    "value": 200000000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 39,
+    "name": "Train à grande vitesse",
+    "value": 390000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  },
+  {
+    "id": 40,
+    "name": "Grue de chantier",
+    "value": 180000,
+    "imageUrl": "assets/images/placeholders/object.svg"
+  }
 ]

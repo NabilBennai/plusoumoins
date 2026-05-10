@@ -14,26 +14,42 @@
   <section class="play-header">
     <div>
       <p class="eyebrow">{{ category.name }}</p>
-      <h1>Lequel est le plus {{ category.comparisonLabel }} ?</h1>
+      <h1>Quelle carte est la plus {{ category.comparisonLabel }} ?</h1>
       <p>{{ category.description }}</p>
     </div>
     <app-score-board [score]="score" [bestScore]="bestScore" />
   </section>
 
-  <section class="game-grid" aria-label="Question en cours">
-    <app-game-card title="Référence" [item]="question.left" [valueText]="getLeftValueText()" [revealValue]="true" />
-    <app-game-card title="À deviner" [item]="question.right" [valueText]="getRightValueText()" [revealValue]="!!answerResult" />
-  </section>
-
   @if (!answerResult) {
     <section class="answer-panel" aria-label="Choix de réponse">
-      <p>{{ question.right.name }} est-il plus ou moins {{ category.comparisonLabel }} que {{ question.left.name }} ?</p>
-      <div class="answer-panel__actions">
-        <button class="button button--primary" type="button" (click)="answer('plus')">Plus</button>
-        <button class="button button--secondary" type="button" (click)="answer('moins')">Moins</button>
-      </div>
+      <p>Compare les deux cartes, puis clique directement sur celle que tu penses la plus {{ category.comparisonLabel }}.</p>
     </section>
-  } @else {
+  }
+
+  <section class="game-grid" aria-label="Question en cours">
+    <app-game-card
+      title="Référence"
+      [item]="question.left"
+      [valueText]="getLeftValueText()"
+      [revealValue]="true"
+      [clickable]="canChooseCards()"
+      [selected]="isSelectedCard('left')"
+      [result]="getCardResult('left')"
+      (cardClick)="answerFromCard('left')"
+    />
+    <app-game-card
+      title="À deviner"
+      [item]="question.right"
+      [valueText]="getRightValueText()"
+      [revealValue]="!!answerResult"
+      [clickable]="canChooseCards()"
+      [selected]="isSelectedCard('right')"
+      [result]="getCardResult('right')"
+      (cardClick)="answerFromCard('right')"
+    />
+  </section>
+
+  @if (answerResult) {
     <app-result-panel
       [isCorrect]="answerResult.isCorrect"
       [rightValueText]="getRightValueText()"

@@ -1,12 +1,242 @@
 [
-  { "id": 1, "name": "Russie", "value": 17098242, "imageUrl": "assets/images/placeholders/area.svg" },
-  { "id": 2, "name": "Canada", "value": 9984670, "imageUrl": "assets/images/placeholders/area.svg" },
-  { "id": 3, "name": "Chine", "value": 9596961, "imageUrl": "assets/images/placeholders/area.svg" },
-  { "id": 4, "name": "États-Unis", "value": 9525067, "imageUrl": "assets/images/placeholders/area.svg" },
-  { "id": 5, "name": "Brésil", "value": 8515767, "imageUrl": "assets/images/placeholders/area.svg" },
-  { "id": 6, "name": "Australie", "value": 7692024, "imageUrl": "assets/images/placeholders/area.svg" },
-  { "id": 7, "name": "Inde", "value": 3287263, "imageUrl": "assets/images/placeholders/area.svg" },
-  { "id": 8, "name": "Argentine", "value": 2780400, "imageUrl": "assets/images/placeholders/area.svg" },
-  { "id": 9, "name": "Kazakhstan", "value": 2724900, "imageUrl": "assets/images/placeholders/area.svg" },
-  { "id": 10, "name": "Algérie", "value": 2381741, "imageUrl": "assets/images/placeholders/area.svg" }
+  {
+    "id": 1,
+    "name": "Russie",
+    "value": 17098242,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 2,
+    "name": "Canada",
+    "value": 9984670,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 3,
+    "name": "Chine",
+    "value": 9596961,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 4,
+    "name": "États-Unis",
+    "value": 9525067,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 5,
+    "name": "Brésil",
+    "value": 8515767,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 6,
+    "name": "Australie",
+    "value": 7692024,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 7,
+    "name": "Inde",
+    "value": 3287263,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 8,
+    "name": "Argentine",
+    "value": 2780400,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 9,
+    "name": "Kazakhstan",
+    "value": 2724900,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 10,
+    "name": "Algérie",
+    "value": 2381741,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 11,
+    "name": "République démocratique du Congo",
+    "value": 2344858,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 12,
+    "name": "Arabie saoudite",
+    "value": 2149690,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 13,
+    "name": "Mexique",
+    "value": 1964375,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 14,
+    "name": "Indonésie",
+    "value": 1904569,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 15,
+    "name": "Soudan",
+    "value": 1886068,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 16,
+    "name": "Libye",
+    "value": 1759540,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 17,
+    "name": "Iran",
+    "value": 1648195,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 18,
+    "name": "Mongolie",
+    "value": 1564110,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 19,
+    "name": "Pérou",
+    "value": 1285216,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 20,
+    "name": "Tchad",
+    "value": 1284000,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 21,
+    "name": "Niger",
+    "value": 1267000,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 22,
+    "name": "Angola",
+    "value": 1246700,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 23,
+    "name": "Mali",
+    "value": 1240192,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 24,
+    "name": "Afrique du Sud",
+    "value": 1221037,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 25,
+    "name": "Colombie",
+    "value": 1141748,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 26,
+    "name": "Éthiopie",
+    "value": 1104300,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 27,
+    "name": "Bolivie",
+    "value": 1098581,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 28,
+    "name": "Mauritanie",
+    "value": 1030700,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 29,
+    "name": "Égypte",
+    "value": 1002450,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 30,
+    "name": "Tanzanie",
+    "value": 945087,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 31,
+    "name": "Nigeria",
+    "value": 923768,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 32,
+    "name": "Venezuela",
+    "value": 916445,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 33,
+    "name": "Namibie",
+    "value": 825615,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 34,
+    "name": "Mozambique",
+    "value": 801590,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 35,
+    "name": "Pakistan",
+    "value": 796095,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 36,
+    "name": "Turquie",
+    "value": 783562,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 37,
+    "name": "Chili",
+    "value": 756102,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 38,
+    "name": "Zambie",
+    "value": 752612,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 39,
+    "name": "Birmanie",
+    "value": 676578,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  },
+  {
+    "id": 40,
+    "name": "Afghanistan",
+    "value": 652230,
+    "imageUrl": "assets/images/placeholders/area.svg"
+  }
 ]
