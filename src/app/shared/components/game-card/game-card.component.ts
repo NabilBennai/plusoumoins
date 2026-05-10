@@ -1,5 +1,6 @@
-import { Component, EventEmitter, Input, Output } from '@angular/core';
+import { Component, EventEmitter, Input, OnChanges, Output, SimpleChanges, inject } from '@angular/core';
 import { Item } from '../../../core/models/item.model';
+import { WikipediaImageService } from '../../../core/services/wikipedia-image.service';
 
 @Component({
   selector: 'app-game-card',
@@ -7,7 +8,7 @@ import { Item } from '../../../core/models/item.model';
   templateUrl: './game-card.component.html',
   styleUrl: './game-card.component.scss',
 })
-export class GameCardComponent {
+export class GameCardComponent implements OnChanges {
   @Input({ required: true }) item!: Item;
   @Input({ required: true }) title!: string;
   @Input() valueText = '';
@@ -17,11 +18,24 @@ export class GameCardComponent {
   @Input() result: 'correct' | 'wrong' | undefined;
   @Output() cardClick = new EventEmitter<void>();
 
-  selectCard(): void {
-    if (!this.clickable) {
-      return;
-    }
+  protected resolvedImageUrl = '';
 
+  private readonly wikiImageService = inject(WikipediaImageService);
+
+  ngOnChanges(changes: SimpleChanges): void {
+    if (!changes['item']) return;
+
+    this.resolvedImageUrl = this.item.imageUrl;
+
+    if (this.item.imageUrl.includes('/placeholders/')) {
+      this.wikiImageService.getImageUrl(this.item.name).subscribe((url) => {
+        if (url) this.resolvedImageUrl = url;
+      });
+    }
+  }
+
+  selectCard(): void {
+    if (!this.clickable) return;
     this.cardClick.emit();
   }
 }

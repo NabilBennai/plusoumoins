@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "name": "Éphémère",
+    "value": 0.01,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 2,
+    "name": "Mouche domestique",
+    "value": 0.08,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 3,
+    "name": "Moustique",
+    "value": 0.1,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 4,
+    "name": "Abeille ouvrière",
+    "value": 0.1,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 5,
+    "name": "Souris",
+    "value": 2,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 6,
+    "name": "Hamster",
+    "value": 3,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 7,
+    "name": "Rat",
+    "value": 3,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 8,
+    "name": "Pieuvre",
+    "value": 3,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 9,
+    "name": "Hérisson",
+    "value": 5,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 10,
+    "name": "Renard",
+    "value": 5,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 11,
+    "name": "Caméléon",
+    "value": 5,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 12,
+    "name": "Calmar géant",
+    "value": 5,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 13,
+    "name": "Escargot",
+    "value": 5,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 14,
+    "name": "Pigeon",
+    "value": 6,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 15,
+    "name": "Poulet",
+    "value": 8,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 16,
+    "name": "Loup",
+    "value": 8,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 17,
+    "name": "Lapin",
+    "value": 9,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 18,
+    "name": "Canard",
+    "value": 10,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 19,
+    "name": "Grenouille",
+    "value": 10,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 20,
+    "name": "Sanglier",
+    "value": 10,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 21,
+    "name": "Guépard",
+    "value": 12,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 22,
+    "name": "Mouton",
+    "value": 12,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 23,
+    "name": "Gazelle",
+    "value": 12,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 24,
+    "name": "Castor",
+    "value": 12,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 25,
+    "name": "Chien",
+    "value": 13,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 26,
+    "name": "Lion",
+    "value": 14,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 27,
+    "name": "Chat domestique",
+    "value": 15,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 28,
+    "name": "Cochon",
+    "value": 15,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 29,
+    "name": "Chèvre",
+    "value": 15,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 30,
+    "name": "Koala",
+    "value": 15,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 31,
+    "name": "Poisson rouge",
+    "value": 15,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 32,
+    "name": "Faucon pèlerin",
+    "value": 15,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 33,
+    "name": "Axolotl",
+    "value": 15,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 34,
+    "name": "Cerf",
+    "value": 15,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 35,
+    "name": "Antilope",
+    "value": 15,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 36,
+    "name": "Loutre",
+    "value": 15,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 37,
+    "name": "Tigre",
+    "value": 16,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 38,
+    "name": "Vache",
+    "value": 20,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 39,
+    "name": "Kangourou",
+    "value": 20,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 40,
+    "name": "Panda géant",
+    "value": 20,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 41,
+    "name": "Iguane",
+    "value": 20,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 42,
+    "name": "Manchot empereur",
+    "value": 20,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 43,
+    "name": "Salamandre",
+    "value": 20,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 44,
+    "name": "Bison",
+    "value": 20,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 45,
+    "name": "Hyène",
+    "value": 20,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 46,
+    "name": "Lama",
+    "value": 20,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 47,
+    "name": "Alpaga",
+    "value": 20,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 48,
+    "name": "Girafe",
+    "value": 25,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 49,
+    "name": "Zèbre",
+    "value": 25,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 50,
+    "name": "Ours brun",
+    "value": 25,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 51,
+    "name": "Ours polaire",
+    "value": 25,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 52,
+    "name": "Serpent python",
+    "value": 25,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 53,
+    "name": "Hibou",
+    "value": 25,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 54,
+    "name": "Termite reine",
+    "value": 25,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 55,
+    "name": "Cheval",
+    "value": 30,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 56,
+    "name": "Âne",
+    "value": 30,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 57,
+    "name": "Aigle royal",
+    "value": 30,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 58,
+    "name": "Fourmi reine",
+    "value": 30,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 59,
+    "name": "Phoque",
+    "value": 30,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 60,
+    "name": "Gorille",
+    "value": 40,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 61,
+    "name": "Dauphin",
+    "value": 40,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 62,
+    "name": "Carpe koï",
+    "value": 40,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 63,
+    "name": "Autruche",
+    "value": 40,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 64,
+    "name": "Rhinocéros",
+    "value": 40,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 65,
+    "name": "Dromadaire",
+    "value": 40,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 66,
+    "name": "Morse",
+    "value": 40,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 67,
+    "name": "Chimpanzé",
+    "value": 45,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 68,
+    "name": "Orang-outan",
+    "value": 45,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 69,
+    "name": "Hippopotame",
+    "value": 45,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 70,
+    "name": "Alligator",
+    "value": 50,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 71,
+    "name": "Chameau",
+    "value": 50,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 72,
+    "name": "Orque",
+    "value": 60,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 73,
+    "name": "Perroquet ara",
+    "value": 60,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 74,
+    "name": "Éléphant d’Afrique",
+    "value": 65,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 75,
+    "name": "Requin blanc",
+    "value": 70,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 76,
+    "name": "Crocodile",
+    "value": 70,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 77,
+    "name": "Humain",
+    "value": 80,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 78,
+    "name": "Baleine bleue",
+    "value": 90,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 79,
+    "name": "Tortue terrestre géante",
+    "value": 120,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  },
+  {
+    "id": 80,
+    "name": "Méduse immortelle",
+    "value": 9999,
+    "imageUrl": "assets/images/placeholders/lifespan.svg"
+  }
+]

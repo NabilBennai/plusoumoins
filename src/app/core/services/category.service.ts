@@ -3,13 +3,14 @@ import { inject, Injectable } from '@angular/core';
 import { Observable, map, shareReplay } from 'rxjs';
 import { Category } from '../models/category.model';
 import { Item } from '../models/item.model';
+import { environment } from '../../../environments/environment';
 
 @Injectable({ providedIn: 'root' })
 export class CategoryService {
   private readonly http = inject(HttpClient);
-  private readonly dataPath = 'assets/data';
+  private readonly api = environment.apiUrl;
   private readonly categories$ = this.http
-    .get<Category[]>(`${this.dataPath}/categories.json`)
+    .get<Category[]>(`${this.api}/categories`)
     .pipe(shareReplay(1));
 
   getCategories(): Observable<Category[]> {
@@ -17,10 +18,10 @@ export class CategoryService {
   }
 
   getCategoryBySlug(slug: string): Observable<Category | undefined> {
-    return this.categories$.pipe(map((categories) => categories.find((category) => category.slug === slug)));
+    return this.categories$.pipe(map((categories) => categories.find((c) => c.slug === slug)));
   }
 
   getItemsByCategorySlug(slug: string): Observable<Item[]> {
-    return this.http.get<Item[]>(`${this.dataPath}/${slug}.json`);
+    return this.http.get<Item[]>(`${this.api}/${slug}`);
   }
 }

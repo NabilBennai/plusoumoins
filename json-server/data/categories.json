@@ -38,5 +38,21 @@
     "description": "Devine quel animal est le plus rapide parmi 79 espèces.",
     "unit": "km/h",
     "comparisonLabel": "rapide"
+  },
+  {
+    "id": 6,
+    "name": "Longévité animale",
+    "slug": "animal-lifespans",
+    "description": "Devine quel animal vit le plus longtemps parmi 80 espèces.",
+    "unit": "ans",
+    "comparisonLabel": "longévif"
+  },
+  {
+    "id": 7,
+    "name": "Distances dans l'espace",
+    "slug": "space-distances",
+    "description": "Compare les distances depuis la Terre, de l'ISS jusqu'aux quasars les plus lointains.",
+    "unit": "m",
+    "comparisonLabel": "lointain"
   }
 ]

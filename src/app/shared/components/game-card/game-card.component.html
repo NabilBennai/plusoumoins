@@ -11,7 +11,7 @@
   (keyup.enter)="selectCard()"
   (keyup.space)="selectCard()"
 >
-  <img [src]="item.imageUrl" [alt]="item.name" loading="lazy">
+  <img [src]="resolvedImageUrl" [alt]="item.name" loading="lazy">
   <div class="game-card__body">
     <p class="eyebrow">{{ title }}</p>
     <h2>{{ item.name }}</h2>
