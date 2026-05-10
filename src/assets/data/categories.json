@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Pays les plus peuplés",
+    "slug": "countries-population",
+    "description": "Devine quel pays est le plus peuplé.",
+    "unit": "habitants",
+    "comparisonLabel": "peuplé"
+  },
+  {
+    "id": 2,
+    "name": "Pays les plus vastes",
+    "slug": "countries-area",
+    "description": "Compare la superficie de grands pays du monde.",
+    "unit": "km²",
+    "comparisonLabel": "vaste"
+  },
+  {
+    "id": 3,
+    "name": "Villes les plus peuplées",
+    "slug": "cities-population",
+    "description": "Devine quelle ville compte le plus d'habitants.",
+    "unit": "habitants",
+    "comparisonLabel": "peuplée"
+  },
+  {
+    "id": 4,
+    "name": "Objets les plus lourds",
+    "slug": "objects-weight",
+    "description": "Compare le poids approximatif d'objets du quotidien et de machines.",
+    "unit": "kg",
+    "comparisonLabel": "lourd"
+  }
+]

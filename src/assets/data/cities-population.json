@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Tokyo", "value": 37400000, "imageUrl": "assets/images/placeholders/city.svg" },
+  { "id": 2, "name": "Delhi", "value": 32900000, "imageUrl": "assets/images/placeholders/city.svg" },
+  { "id": 3, "name": "Shanghai", "value": 29200000, "imageUrl": "assets/images/placeholders/city.svg" },
+  { "id": 4, "name": "Dhaka", "value": 23200000, "imageUrl": "assets/images/placeholders/city.svg" },
+  { "id": 5, "name": "São Paulo", "value": 22400000, "imageUrl": "assets/images/placeholders/city.svg" },
+  { "id": 6, "name": "Mexico", "value": 22200000, "imageUrl": "assets/images/placeholders/city.svg" },
+  { "id": 7, "name": "Le Caire", "value": 22100000, "imageUrl": "assets/images/placeholders/city.svg" },
+  { "id": 8, "name": "Pékin", "value": 21800000, "imageUrl": "assets/images/placeholders/city.svg" },
+  { "id": 9, "name": "Mumbai", "value": 21300000, "imageUrl": "assets/images/placeholders/city.svg" },
+  { "id": 10, "name": "Osaka", "value": 19000000, "imageUrl": "assets/images/placeholders/city.svg" }
+]

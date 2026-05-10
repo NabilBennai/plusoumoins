@@ -1,0 +1,9 @@
+<article class="category-card">
+  <div class="category-card__icon" aria-hidden="true">±</div>
+  <div class="category-card__content">
+    <p class="eyebrow">{{ category.unit }}</p>
+    <h2>{{ category.name }}</h2>
+    <p>{{ category.description }}</p>
+  </div>
+  <a class="button button--primary" [routerLink]="['/play', category.slug]">Jouer</a>
+</article>

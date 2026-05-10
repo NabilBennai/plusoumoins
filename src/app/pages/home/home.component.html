@@ -1,0 +1,35 @@
+<section class="hero">
+  <div class="hero__content">
+    <p class="eyebrow">Jeu de comparaison</p>
+    <h1>Plus ou Moins</h1>
+    <p class="hero__description">
+      Compare deux pays, villes ou objets et devine si celui de droite est plus ou moins élevé que celui de gauche.
+      Une erreur, et la partie s'arrête !
+    </p>
+    <div class="hero__actions">
+      <a class="button button--primary" routerLink="/play/countries-population">Jouer</a>
+      <a class="button button--secondary" routerLink="/categories">Voir les catégories</a>
+    </div>
+  </div>
+  <div class="hero__preview" aria-hidden="true">
+    <div class="preview-card preview-card--left">
+      <span>France</span>
+      <strong>68 M</strong>
+    </div>
+    <div class="preview-card preview-card--right">
+      <span>Japon</span>
+      <strong>?</strong>
+    </div>
+  </div>
+</section>
+
+<section class="section-header">
+  <p class="eyebrow">Catégories populaires</p>
+  <h2>Choisis ton thème</h2>
+</section>
+
+<div class="category-grid">
+  @for (category of featuredCategories$ | async; track category.id) {
+    <app-category-card [category]="category" />
+  }
+</div>

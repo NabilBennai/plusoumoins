@@ -1,0 +1,14 @@
+<section class="result-panel" [class.result-panel--success]="isCorrect" [class.result-panel--danger]="!isCorrect">
+  <p class="result-panel__label">{{ isCorrect ? 'Bonne réponse !' : 'Dommage !' }}</p>
+  <p>La valeur révélée est <strong>{{ rightValueText }}</strong>.</p>
+
+  @if (gameOver) {
+    <div class="result-panel__final">
+      <p>Score final : <strong>{{ finalScore }}</strong></p>
+      <p>Meilleur score : <strong>{{ bestScore }}</strong></p>
+      <button class="button button--primary" type="button" (click)="restart.emit()">Recommencer</button>
+    </div>
+  } @else {
+    <p class="result-panel__hint">Question suivante...</p>
+  }
+</section>

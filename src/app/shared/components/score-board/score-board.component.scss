@@ -1,0 +1,28 @@
+.score-board {
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.score-board div {
+  background: var(--color-surface);
+  border: 1px solid rgba(91, 108, 138, 0.14);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-soft);
+  padding: 0.95rem;
+}
+
+span {
+  color: var(--color-muted);
+  display: block;
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+strong {
+  color: var(--color-primary);
+  display: block;
+  font-size: 1.75rem;
+  line-height: 1;
+  margin-top: 0.35rem;
+}

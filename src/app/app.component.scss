@@ -1,0 +1,61 @@
+.app-header {
+  align-items: center;
+  backdrop-filter: blur(18px);
+  background: rgba(255, 255, 255, 0.84);
+  border-bottom: 1px solid rgba(91, 108, 138, 0.16);
+  display: flex;
+  justify-content: space-between;
+  left: 0;
+  padding: 0.9rem clamp(1rem, 4vw, 3rem);
+  position: sticky;
+  right: 0;
+  top: 0;
+  z-index: 10;
+}
+
+.brand {
+  align-items: center;
+  color: var(--color-text);
+  display: inline-flex;
+  font-weight: 800;
+  gap: 0.6rem;
+  text-decoration: none;
+}
+
+.brand__mark {
+  align-items: center;
+  background: linear-gradient(135deg, var(--color-primary), var(--color-accent));
+  border-radius: 0.85rem;
+  color: white;
+  display: inline-flex;
+  font-size: 1.35rem;
+  height: 2.4rem;
+  justify-content: center;
+  width: 2.4rem;
+}
+
+.main-nav {
+  display: flex;
+  gap: 0.4rem;
+}
+
+.main-nav a {
+  border-radius: 999px;
+  color: var(--color-muted);
+  font-weight: 700;
+  padding: 0.65rem 0.9rem;
+  text-decoration: none;
+}
+
+.main-nav a.is-active,
+.main-nav a:hover {
+  background: rgba(91, 93, 255, 0.11);
+  color: var(--color-primary);
+}
+
+.app-shell {
+  margin-inline: auto;
+  max-width: 1180px;
+  padding: clamp(1rem, 4vw, 3rem);
+  width: 100%;
+}
