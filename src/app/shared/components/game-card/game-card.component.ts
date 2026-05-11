@@ -1,10 +1,12 @@
 import { Component, EventEmitter, Input, OnChanges, Output, SimpleChanges, inject } from '@angular/core';
+import { TranslatePipe } from '@ngx-translate/core';
 import { Item } from '../../../core/models/item.model';
 import { WikipediaImageService } from '../../../core/services/wikipedia-image.service';
 
 @Component({
   selector: 'app-game-card',
   standalone: true,
+  imports: [TranslatePipe],
   templateUrl: './game-card.component.html',
   styleUrl: './game-card.component.scss',
 })

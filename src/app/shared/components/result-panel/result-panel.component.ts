@@ -1,8 +1,10 @@
 import { Component, EventEmitter, Input, Output } from '@angular/core';
+import { TranslatePipe } from '@ngx-translate/core';
 
 @Component({
   selector: 'app-result-panel',
   standalone: true,
+  imports: [TranslatePipe],
   templateUrl: './result-panel.component.html',
   styleUrl: './result-panel.component.scss',
 })

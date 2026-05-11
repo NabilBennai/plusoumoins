@@ -1,0 +1,129 @@
+{
+  "NAV": {
+    "HOME": "Inicio",
+    "CATEGORIES": "Categorías",
+    "BRAND_ARIA": "Volver al inicio",
+    "NAV_ARIA": "Navegación principal"
+  },
+  "HOME": {
+    "EYEBROW": "Juego de comparación",
+    "TITLE": "Más o Menos",
+    "DESCRIPTION": "Compara dos países, ciudades u objetos y adivina si el de la derecha es mayor o menor que el de la izquierda. ¡Un error y el juego termina!",
+    "PLAY": "Jugar",
+    "SEE_CATEGORIES": "Ver categorías",
+    "POPULAR_EYEBROW": "Categorías populares",
+    "CHOOSE_THEME": "Elige tu tema",
+    "PREVIEW_LEFT": "Francia",
+    "PREVIEW_LEFT_VALUE": "68 M",
+    "PREVIEW_RIGHT": "Japón"
+  },
+  "CATEGORIES": {
+    "EYEBROW": "Todas las categorías",
+    "TITLE": "¿A qué quieres jugar?"
+  },
+  "PLAY": {
+    "LOADING_EYEBROW": "Cargando",
+    "LOADING_TITLE": "Preparando el juego...",
+    "ERROR_EYEBROW": "Error",
+    "ERROR_TITLE": "No se puede jugar",
+    "BACK": "Volver a categorías",
+    "REFERENCE": "Referencia",
+    "TO_GUESS": "A adivinar",
+    "GAME_GRID_ARIA": "Pregunta actual",
+    "ANSWER_PANEL_ARIA": "Elección de respuesta",
+    "INSTRUCTIONS": "Compara las dos cartas, luego haz clic directamente en la que crees que es la más {{label}}.",
+    "QUESTION": "¿Qué carta es la más {{label}}?",
+    "ERROR_LOAD": "No se pueden cargar los datos de esta categoría.",
+    "ERROR_NOT_FOUND": "Esta categoría aún no existe.",
+    "ERROR_TOO_FEW": "Esta categoría debe contener al menos dos elementos."
+  },
+  "RESULT": {
+    "CORRECT": "¡Correcto!",
+    "WRONG": "¡Lástima!",
+    "REVEALED": "El valor revelado es",
+    "FINAL_SCORE": "Puntuación final:",
+    "BEST_SCORE": "Mejor puntuación:",
+    "RESTART": "Reiniciar",
+    "NEXT": "Siguiente pregunta..."
+  },
+  "SCORE": {
+    "SCORE": "Puntos",
+    "BEST": "Récord"
+  },
+  "CARD": {
+    "HIDDEN": "Valor oculto",
+    "HINT": "Haz clic en esta carta si crees que es la respuesta correcta."
+  },
+  "CATEGORY_CARD": {
+    "PLAY": "Jugar"
+  },
+  "CATEGORY": {
+    "countries-population": {
+      "name": "Países más poblados",
+      "description": "Adivina qué país tiene la mayor población.",
+      "comparisonLabel": "poblado",
+      "unit": "habitantes"
+    },
+    "countries-area": {
+      "name": "Países más grandes",
+      "description": "Compara la superficie de los países más grandes del mundo.",
+      "comparisonLabel": "grande",
+      "unit": "km²"
+    },
+    "cities-population": {
+      "name": "Ciudades más pobladas",
+      "description": "Adivina qué ciudad tiene más habitantes.",
+      "comparisonLabel": "poblada",
+      "unit": "habitantes"
+    },
+    "objects-weight": {
+      "name": "Objetos más pesados",
+      "description": "Compara el peso aproximado de objetos cotidianos y máquinas.",
+      "comparisonLabel": "pesado",
+      "unit": "kg"
+    },
+    "animal-speeds": {
+      "name": "Animales más rápidos",
+      "description": "Adivina qué animal es el más rápido entre 79 especies.",
+      "comparisonLabel": "rápido",
+      "unit": "km/h"
+    },
+    "animal-lifespans": {
+      "name": "Longevidad animal",
+      "description": "Adivina qué animal vive más tiempo entre 80 especies.",
+      "comparisonLabel": "longevo",
+      "unit": "años"
+    },
+    "space-distances": {
+      "name": "Distancias en el espacio",
+      "description": "Compara las distancias desde la Tierra, de la ISS hasta los cuásares más lejanos.",
+      "comparisonLabel": "lejano",
+      "unit": "años luz"
+    }
+  },
+  "UNIT": {
+    "habitants": "habitantes",
+    "km²": "km²",
+    "kg": "kg",
+    "km/h": "km/h",
+    "ans": "años"
+  },
+  "SPACE": {
+    "B_LY_S": "mil millones de años luz",
+    "B_LY_P": "mil millones de años luz",
+    "M_LY_S": "millón de años luz",
+    "M_LY_P": "millones de años luz",
+    "LY_S": "año luz",
+    "LY_P": "años luz",
+    "B_KM_S": "mil millones de km",
+    "B_KM_P": "mil millones de km",
+    "M_KM_S": "millón de km",
+    "M_KM_P": "millones de km"
+  },
+  "LANG": {
+    "fr": "Français",
+    "en": "English",
+    "es": "Español",
+    "SELECTOR_ARIA": "Selector de idioma"
+  }
+}

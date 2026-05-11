@@ -1,34 +1,34 @@
 @if (isLoading) {
   <section class="state-card">
-    <p class="eyebrow">Chargement</p>
-    <h1>Préparation de la partie...</h1>
+    <p class="eyebrow">{{ 'PLAY.LOADING_EYEBROW' | translate }}</p>
+    <h1>{{ 'PLAY.LOADING_TITLE' | translate }}</h1>
   </section>
-} @else if (errorMessage) {
+} @else if (errorKey) {
   <section class="state-card state-card--error">
-    <p class="eyebrow">Erreur</p>
-    <h1>Impossible de jouer</h1>
-    <p>{{ errorMessage }}</p>
-    <a class="button button--primary" routerLink="/categories">Retour aux catégories</a>
+    <p class="eyebrow">{{ 'PLAY.ERROR_EYEBROW' | translate }}</p>
+    <h1>{{ 'PLAY.ERROR_TITLE' | translate }}</h1>
+    <p>{{ errorKey | translate }}</p>
+    <a class="button button--primary" routerLink="/categories">{{ 'PLAY.BACK' | translate }}</a>
   </section>
 } @else if (category && question) {
   <section class="play-header">
     <div>
-      <p class="eyebrow">{{ category.name }}</p>
-      <h1>Quelle carte est la plus {{ category.comparisonLabel }} ?</h1>
-      <p>{{ category.description }}</p>
+      <p class="eyebrow">{{ 'CATEGORY.' + category.slug + '.name' | translate }}</p>
+      <h1>{{ 'PLAY.QUESTION' | translate:{ label: comparisonLabel } }}</h1>
+      <p>{{ 'CATEGORY.' + category.slug + '.description' | translate }}</p>
     </div>
     <app-score-board [score]="score" [bestScore]="bestScore" />
   </section>
 
   @if (!answerResult) {
-    <section class="answer-panel" aria-label="Choix de réponse">
-      <p>Compare les deux cartes, puis clique directement sur celle que tu penses la plus {{ category.comparisonLabel }}.</p>
+    <section class="answer-panel" [attr.aria-label]="'PLAY.ANSWER_PANEL_ARIA' | translate">
+      <p>{{ 'PLAY.INSTRUCTIONS' | translate:{ label: comparisonLabel } }}</p>
     </section>
   }
 
-  <section class="game-grid" aria-label="Question en cours">
+  <section class="game-grid" [attr.aria-label]="'PLAY.GAME_GRID_ARIA' | translate">
     <app-game-card
-      title="Référence"
+      [title]="'PLAY.REFERENCE' | translate"
       [item]="question.left"
       [valueText]="getLeftValueText()"
       [revealValue]="true"
@@ -38,7 +38,7 @@
       (cardClick)="answerFromCard('left')"
     />
     <app-game-card
-      title="À deviner"
+      [title]="'PLAY.TO_GUESS' | translate"
       [item]="question.right"
       [valueText]="getRightValueText()"
       [revealValue]="!!answerResult"

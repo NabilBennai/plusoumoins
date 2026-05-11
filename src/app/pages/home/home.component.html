@@ -1,31 +1,28 @@
 <section class="hero">
   <div class="hero__content">
-    <p class="eyebrow">Jeu de comparaison</p>
-    <h1>Plus ou Moins</h1>
-    <p class="hero__description">
-      Compare deux pays, villes ou objets et devine si celui de droite est plus ou moins élevé que celui de gauche.
-      Une erreur, et la partie s'arrête !
-    </p>
+    <p class="eyebrow">{{ 'HOME.EYEBROW' | translate }}</p>
+    <h1>{{ 'HOME.TITLE' | translate }}</h1>
+    <p class="hero__description">{{ 'HOME.DESCRIPTION' | translate }}</p>
     <div class="hero__actions">
-      <a class="button button--primary" routerLink="/play/countries-population">Jouer</a>
-      <a class="button button--secondary" routerLink="/categories">Voir les catégories</a>
+      <a class="button button--primary" routerLink="/play/countries-population">{{ 'HOME.PLAY' | translate }}</a>
+      <a class="button button--secondary" routerLink="/categories">{{ 'HOME.SEE_CATEGORIES' | translate }}</a>
     </div>
   </div>
   <div class="hero__preview" aria-hidden="true">
     <div class="preview-card preview-card--left">
-      <span>France</span>
-      <strong>68 M</strong>
+      <span>{{ 'HOME.PREVIEW_LEFT' | translate }}</span>
+      <strong>{{ 'HOME.PREVIEW_LEFT_VALUE' | translate }}</strong>
     </div>
     <div class="preview-card preview-card--right">
-      <span>Japon</span>
+      <span>{{ 'HOME.PREVIEW_RIGHT' | translate }}</span>
       <strong>?</strong>
     </div>
   </div>
 </section>
 
 <section class="section-header">
-  <p class="eyebrow">Catégories populaires</p>
-  <h2>Choisis ton thème</h2>
+  <p class="eyebrow">{{ 'HOME.POPULAR_EYEBROW' | translate }}</p>
+  <h2>{{ 'HOME.CHOOSE_THEME' | translate }}</h2>
 </section>
 
 <div class="category-grid">

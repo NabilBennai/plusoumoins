@@ -71,6 +71,35 @@
   color: var(--color-text);
 }
 
+.lang-selector {
+  border-left: 1px solid var(--color-border);
+  display: flex;
+  gap: 0.2rem;
+  margin-left: 0.3rem;
+  padding-left: 0.5rem;
+}
+
+.lang-btn {
+  background: none;
+  border: 1px solid transparent;
+  border-radius: var(--radius-sm);
+  color: var(--color-muted);
+  cursor: pointer;
+  font-family: var(--font-body);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  padding: 0.55rem 0.7rem;
+  text-transform: uppercase;
+  transition: color 120ms ease, border-color 120ms ease;
+}
+
+.lang-btn:hover,
+.lang-btn.is-active {
+  border-color: var(--color-border-strong);
+  color: var(--color-text);
+}
+
 .app-shell {
   margin-inline: auto;
   max-width: 1200px;

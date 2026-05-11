@@ -1,5 +1,6 @@
 import { Component, OnDestroy, OnInit } from '@angular/core';
 import { ActivatedRoute, RouterLink } from '@angular/router';
+import { TranslatePipe, TranslateService } from '@ngx-translate/core';
 import { Subject, forkJoin, of, switchMap, takeUntil } from 'rxjs';
 import { Category } from '../../core/models/category.model';
 import { AnswerResult, GameQuestion, Guess } from '../../core/models/game-question.model';
@@ -14,7 +15,7 @@ import { ScoreBoardComponent } from '../../shared/components/score-board/score-b
 @Component({
   selector: 'app-play',
   standalone: true,
-  imports: [RouterLink, GameCardComponent, ResultPanelComponent, ScoreBoardComponent],
+  imports: [RouterLink, GameCardComponent, ResultPanelComponent, ScoreBoardComponent, TranslatePipe],
   templateUrl: './play.component.html',
   styleUrl: './play.component.scss',
 })
@@ -22,7 +23,7 @@ export class PlayComponent implements OnInit, OnDestroy {
   category?: Category;
   question?: GameQuestion;
   answerResult?: AnswerResult;
-  errorMessage = '';
+  errorKey = '';
   score = 0;
   bestScore = 0;
   gameOver = false;
@@ -37,6 +38,7 @@ export class PlayComponent implements OnInit, OnDestroy {
     private readonly categoryService: CategoryService,
     private readonly gameService: GameService,
     private readonly scoreService: ScoreService,
+    private readonly translate: TranslateService,
   ) {}
 
   ngOnInit(): void {
@@ -66,7 +68,7 @@ export class PlayComponent implements OnInit, OnDestroy {
       )
       .subscribe({
         next: ({ category, items }) => this.startCategory(category, items),
-        error: () => this.showError("Impossible de charger les données de cette catégorie."),
+        error: () => this.showError('PLAY.ERROR_LOAD'),
       });
   }
 
@@ -74,6 +76,11 @@ export class PlayComponent implements OnInit, OnDestroy {
     this.clearNextQuestionTimeout();
     this.destroy$.next();
     this.destroy$.complete();
+  }
+
+  get comparisonLabel(): string {
+    if (!this.category) return '';
+    return this.translate.instant(`CATEGORY.${this.category.slug}.comparisonLabel`);
   }
 
   answer(guess: Guess): void {
@@ -144,12 +151,12 @@ export class PlayComponent implements OnInit, OnDestroy {
 
   private startCategory(category: Category | undefined, items: Item[]): void {
     if (!category) {
-      this.showError("Cette catégorie n'existe pas encore.");
+      this.showError('PLAY.ERROR_NOT_FOUND');
       return;
     }
 
     if (items.length < 2) {
-      this.showError('Cette catégorie doit contenir au moins deux éléments.');
+      this.showError('PLAY.ERROR_TOO_FEW');
       return;
     }
 
@@ -158,7 +165,7 @@ export class PlayComponent implements OnInit, OnDestroy {
     this.score = 0;
     this.bestScore = this.scoreService.getBestScore(category.slug);
     this.gameOver = false;
-    this.errorMessage = '';
+    this.errorKey = '';
     this.isLoading = false;
     this.nextQuestion();
   }
@@ -181,8 +188,8 @@ export class PlayComponent implements OnInit, OnDestroy {
     return this.category ? this.scoreService.saveBestScore(this.category.slug, this.score) : this.bestScore;
   }
 
-  private showError(message: string): void {
-    this.errorMessage = message;
+  private showError(key: string): void {
+    this.errorKey = key;
     this.isLoading = false;
     this.category = undefined;
     this.question = undefined;

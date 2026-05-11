@@ -1,13 +1,23 @@
 <header class="app-header">
-  <a class="brand" routerLink="/home" aria-label="Retour à l'accueil">
+  <a class="brand" routerLink="/home" [attr.aria-label]="'NAV.BRAND_ARIA' | translate">
     <span class="brand__mark">±</span>
     <span>{{ title }}</span>
   </a>
 
-  <nav class="main-nav" aria-label="Navigation principale">
-    <a routerLink="/home" routerLinkActive="is-active">Accueil</a>
-    <a routerLink="/categories" routerLinkActive="is-active">Catégories</a>
+  <nav class="main-nav" [attr.aria-label]="'NAV.NAV_ARIA' | translate">
+    <a routerLink="/home" routerLinkActive="is-active">{{ 'NAV.HOME' | translate }}</a>
+    <a routerLink="/categories" routerLinkActive="is-active">{{ 'NAV.CATEGORIES' | translate }}</a>
   </nav>
+
+  <div class="lang-selector" [attr.aria-label]="'LANG.SELECTOR_ARIA' | translate">
+    @for (lang of langs; track lang.code) {
+      <button
+        class="lang-btn"
+        [class.is-active]="currentLang === lang.code"
+        (click)="setLanguage(lang.code)"
+      >{{ lang.label }}</button>
+    }
+  </div>
 </header>
 
 <main class="app-shell">

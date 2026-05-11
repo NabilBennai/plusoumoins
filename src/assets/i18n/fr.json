@@ -1,0 +1,129 @@
+{
+  "NAV": {
+    "HOME": "Accueil",
+    "CATEGORIES": "Catégories",
+    "BRAND_ARIA": "Retour à l'accueil",
+    "NAV_ARIA": "Navigation principale"
+  },
+  "HOME": {
+    "EYEBROW": "Jeu de comparaison",
+    "TITLE": "Plus ou Moins",
+    "DESCRIPTION": "Compare deux pays, villes ou objets et devine si celui de droite est plus ou moins élevé que celui de gauche. Une erreur, et la partie s'arrête !",
+    "PLAY": "Jouer",
+    "SEE_CATEGORIES": "Voir les catégories",
+    "POPULAR_EYEBROW": "Catégories populaires",
+    "CHOOSE_THEME": "Choisis ton thème",
+    "PREVIEW_LEFT": "France",
+    "PREVIEW_LEFT_VALUE": "68 M",
+    "PREVIEW_RIGHT": "Japon"
+  },
+  "CATEGORIES": {
+    "EYEBROW": "Toutes les catégories",
+    "TITLE": "À quoi veux-tu jouer ?"
+  },
+  "PLAY": {
+    "LOADING_EYEBROW": "Chargement",
+    "LOADING_TITLE": "Préparation de la partie...",
+    "ERROR_EYEBROW": "Erreur",
+    "ERROR_TITLE": "Impossible de jouer",
+    "BACK": "Retour aux catégories",
+    "REFERENCE": "Référence",
+    "TO_GUESS": "À deviner",
+    "GAME_GRID_ARIA": "Question en cours",
+    "ANSWER_PANEL_ARIA": "Choix de réponse",
+    "INSTRUCTIONS": "Compare les deux cartes, puis clique directement sur celle que tu penses la plus {{label}}.",
+    "QUESTION": "Quelle carte est la plus {{label}} ?",
+    "ERROR_LOAD": "Impossible de charger les données de cette catégorie.",
+    "ERROR_NOT_FOUND": "Cette catégorie n'existe pas encore.",
+    "ERROR_TOO_FEW": "Cette catégorie doit contenir au moins deux éléments."
+  },
+  "RESULT": {
+    "CORRECT": "Bonne réponse !",
+    "WRONG": "Dommage !",
+    "REVEALED": "La valeur révélée est",
+    "FINAL_SCORE": "Score final :",
+    "BEST_SCORE": "Meilleur score :",
+    "RESTART": "Recommencer",
+    "NEXT": "Question suivante..."
+  },
+  "SCORE": {
+    "SCORE": "Score",
+    "BEST": "Meilleur"
+  },
+  "CARD": {
+    "HIDDEN": "Valeur masquée",
+    "HINT": "Clique cette carte si tu penses qu'elle est la bonne réponse."
+  },
+  "CATEGORY_CARD": {
+    "PLAY": "Jouer"
+  },
+  "CATEGORY": {
+    "countries-population": {
+      "name": "Pays les plus peuplés",
+      "description": "Devine quel pays est le plus peuplé.",
+      "comparisonLabel": "peuplé",
+      "unit": "habitants"
+    },
+    "countries-area": {
+      "name": "Pays les plus vastes",
+      "description": "Compare la superficie de grands pays du monde.",
+      "comparisonLabel": "vaste",
+      "unit": "km²"
+    },
+    "cities-population": {
+      "name": "Villes les plus peuplées",
+      "description": "Devine quelle ville compte le plus d'habitants.",
+      "comparisonLabel": "peuplée",
+      "unit": "habitants"
+    },
+    "objects-weight": {
+      "name": "Objets les plus lourds",
+      "description": "Compare le poids approximatif d'objets du quotidien et de machines.",
+      "comparisonLabel": "lourd",
+      "unit": "kg"
+    },
+    "animal-speeds": {
+      "name": "Animaux les plus rapides",
+      "description": "Devine quel animal est le plus rapide parmi 79 espèces.",
+      "comparisonLabel": "rapide",
+      "unit": "km/h"
+    },
+    "animal-lifespans": {
+      "name": "Longévité animale",
+      "description": "Devine quel animal vit le plus longtemps parmi 80 espèces.",
+      "comparisonLabel": "longévif",
+      "unit": "ans"
+    },
+    "space-distances": {
+      "name": "Distances dans l'espace",
+      "description": "Compare les distances depuis la Terre, de l'ISS jusqu'aux quasars les plus lointains.",
+      "comparisonLabel": "lointain",
+      "unit": "m"
+    }
+  },
+  "UNIT": {
+    "habitants": "habitants",
+    "km²": "km²",
+    "kg": "kg",
+    "km/h": "km/h",
+    "ans": "ans"
+  },
+  "SPACE": {
+    "B_LY_S": "milliard d'années-lumière",
+    "B_LY_P": "milliards d'années-lumière",
+    "M_LY_S": "million d'années-lumière",
+    "M_LY_P": "millions d'années-lumière",
+    "LY_S": "année-lumière",
+    "LY_P": "années-lumière",
+    "B_KM_S": "milliard de km",
+    "B_KM_P": "milliards de km",
+    "M_KM_S": "million de km",
+    "M_KM_P": "millions de km"
+  },
+  "LANG": {
+    "fr": "Français",
+    "en": "English",
+    "es": "Español",
+    "SELECTOR_ARIA": "Sélecteur de langue"
+  }
+}

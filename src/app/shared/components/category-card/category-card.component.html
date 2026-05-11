@@ -1,9 +1,9 @@
 <article class="category-card">
   <div class="category-card__icon" aria-hidden="true">±</div>
   <div class="category-card__content">
-    <p class="eyebrow">{{ category.unit }}</p>
-    <h2>{{ category.name }}</h2>
-    <p>{{ category.description }}</p>
+    <p class="eyebrow">{{ 'CATEGORY.' + category.slug + '.unit' | translate }}</p>
+    <h2>{{ 'CATEGORY.' + category.slug + '.name' | translate }}</h2>
+    <p>{{ 'CATEGORY.' + category.slug + '.description' | translate }}</p>
   </div>
-  <a class="button button--primary" [routerLink]="['/play', category.slug]">Jouer</a>
+  <a class="button button--primary" [routerLink]="['/play', category.slug]">{{ 'CATEGORY_CARD.PLAY' | translate }}</a>
 </article>

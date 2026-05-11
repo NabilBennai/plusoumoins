@@ -1,0 +1,129 @@
+{
+  "NAV": {
+    "HOME": "Home",
+    "CATEGORIES": "Categories",
+    "BRAND_ARIA": "Back to home",
+    "NAV_ARIA": "Main navigation"
+  },
+  "HOME": {
+    "EYEBROW": "Comparison game",
+    "TITLE": "More or Less",
+    "DESCRIPTION": "Compare two countries, cities or objects and guess if the one on the right is higher or lower than the one on the left. One mistake and the game ends!",
+    "PLAY": "Play",
+    "SEE_CATEGORIES": "See categories",
+    "POPULAR_EYEBROW": "Popular categories",
+    "CHOOSE_THEME": "Pick your theme",
+    "PREVIEW_LEFT": "France",
+    "PREVIEW_LEFT_VALUE": "68 M",
+    "PREVIEW_RIGHT": "Japan"
+  },
+  "CATEGORIES": {
+    "EYEBROW": "All categories",
+    "TITLE": "What do you want to play?"
+  },
+  "PLAY": {
+    "LOADING_EYEBROW": "Loading",
+    "LOADING_TITLE": "Preparing the game...",
+    "ERROR_EYEBROW": "Error",
+    "ERROR_TITLE": "Cannot play",
+    "BACK": "Back to categories",
+    "REFERENCE": "Reference",
+    "TO_GUESS": "To guess",
+    "GAME_GRID_ARIA": "Current question",
+    "ANSWER_PANEL_ARIA": "Answer choice",
+    "INSTRUCTIONS": "Compare the two cards, then click directly on the one you think is the most {{label}}.",
+    "QUESTION": "Which card is the most {{label}}?",
+    "ERROR_LOAD": "Unable to load data for this category.",
+    "ERROR_NOT_FOUND": "This category does not exist yet.",
+    "ERROR_TOO_FEW": "This category must contain at least two items."
+  },
+  "RESULT": {
+    "CORRECT": "Correct!",
+    "WRONG": "Wrong!",
+    "REVEALED": "The revealed value is",
+    "FINAL_SCORE": "Final score:",
+    "BEST_SCORE": "Best score:",
+    "RESTART": "Play again",
+    "NEXT": "Next question..."
+  },
+  "SCORE": {
+    "SCORE": "Score",
+    "BEST": "Best"
+  },
+  "CARD": {
+    "HIDDEN": "Hidden value",
+    "HINT": "Click this card if you think it is the right answer."
+  },
+  "CATEGORY_CARD": {
+    "PLAY": "Play"
+  },
+  "CATEGORY": {
+    "countries-population": {
+      "name": "Most populated countries",
+      "description": "Guess which country has the largest population.",
+      "comparisonLabel": "populated",
+      "unit": "inhabitants"
+    },
+    "countries-area": {
+      "name": "Largest countries",
+      "description": "Compare the area of the world's largest countries.",
+      "comparisonLabel": "vast",
+      "unit": "km²"
+    },
+    "cities-population": {
+      "name": "Most populated cities",
+      "description": "Guess which city has the most inhabitants.",
+      "comparisonLabel": "populated",
+      "unit": "inhabitants"
+    },
+    "objects-weight": {
+      "name": "Heaviest objects",
+      "description": "Compare the approximate weight of everyday objects and machines.",
+      "comparisonLabel": "heavy",
+      "unit": "kg"
+    },
+    "animal-speeds": {
+      "name": "Fastest animals",
+      "description": "Guess which animal is the fastest among 79 species.",
+      "comparisonLabel": "fast",
+      "unit": "km/h"
+    },
+    "animal-lifespans": {
+      "name": "Animal longevity",
+      "description": "Guess which animal lives the longest among 80 species.",
+      "comparisonLabel": "long-lived",
+      "unit": "years"
+    },
+    "space-distances": {
+      "name": "Distances in space",
+      "description": "Compare distances from Earth, from the ISS to the most distant quasars.",
+      "comparisonLabel": "distant",
+      "unit": "light-years"
+    }
+  },
+  "UNIT": {
+    "habitants": "inhabitants",
+    "km²": "km²",
+    "kg": "kg",
+    "km/h": "km/h",
+    "ans": "years"
+  },
+  "SPACE": {
+    "B_LY_S": "billion light-year",
+    "B_LY_P": "billion light-years",
+    "M_LY_S": "million light-year",
+    "M_LY_P": "million light-years",
+    "LY_S": "light-year",
+    "LY_P": "light-years",
+    "B_KM_S": "billion km",
+    "B_KM_P": "billion km",
+    "M_KM_S": "million km",
+    "M_KM_P": "million km"
+  },
+  "LANG": {
+    "fr": "Français",
+    "en": "English",
+    "es": "Español",
+    "SELECTOR_ARIA": "Language selector"
+  }
+}
