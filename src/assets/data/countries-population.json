@@ -2,774 +2,903 @@
   {
     "id": 1,
     "name": "Inde",
+    "names": { "en": "India", "es": "India" },
     "value": 1428600000,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 2,
     "name": "Chine",
+    "names": { "en": "China", "es": "China" },
     "value": 1411000000,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 3,
     "name": "États-Unis",
+    "names": { "en": "United States", "es": "Estados Unidos" },
     "value": 339996563,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 4,
     "name": "Indonésie",
+    "names": { "en": "Indonesia", "es": "Indonesia" },
     "value": 277534122,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 5,
     "name": "Pakistan",
+    "names": { "en": "Pakistan", "es": "Pakistán" },
     "value": 240485658,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 6,
     "name": "Nigeria",
+    "names": { "en": "Nigeria", "es": "Nigeria" },
     "value": 223804632,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 7,
     "name": "Brésil",
+    "names": { "en": "Brazil", "es": "Brasil" },
     "value": 216422446,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 8,
     "name": "Bangladesh",
+    "names": { "en": "Bangladesh", "es": "Bangladés" },
     "value": 172954319,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 9,
     "name": "Russie",
+    "names": { "en": "Russia", "es": "Rusia" },
     "value": 144444359,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 10,
     "name": "Mexique",
+    "names": { "en": "Mexico", "es": "México" },
     "value": 128455567,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 11,
     "name": "Éthiopie",
+    "names": { "en": "Ethiopia", "es": "Etiopía" },
     "value": 126527060,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 12,
     "name": "Japon",
+    "names": { "en": "Japan", "es": "Japón" },
     "value": 123294513,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 13,
     "name": "Philippines",
+    "names": { "en": "Philippines", "es": "Filipinas" },
     "value": 117337368,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 14,
     "name": "Égypte",
+    "names": { "en": "Egypt", "es": "Egipto" },
     "value": 112716598,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 15,
     "name": "Vietnam",
+    "names": { "en": "Vietnam", "es": "Vietnam" },
     "value": 98858950,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 16,
     "name": "République démocratique du Congo",
+    "names": { "en": "Democratic Republic of the Congo", "es": "República Democrática del Congo" },
     "value": 102262808,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 17,
     "name": "Iran",
+    "names": { "en": "Iran", "es": "Irán" },
     "value": 89172767,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 18,
     "name": "Turquie",
+    "names": { "en": "Turkey", "es": "Turquía" },
     "value": 85816199,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 19,
     "name": "Allemagne",
+    "names": { "en": "Germany", "es": "Alemania" },
     "value": 83294633,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 20,
     "name": "Thaïlande",
+    "names": { "en": "Thailand", "es": "Tailandia" },
     "value": 71801279,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 21,
     "name": "Royaume-Uni",
+    "names": { "en": "United Kingdom", "es": "Reino Unido" },
     "value": 67736802,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 22,
     "name": "France",
+    "names": { "en": "France", "es": "Francia" },
     "value": 64756584,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 23,
     "name": "Italie",
+    "names": { "en": "Italy", "es": "Italia" },
     "value": 58870762,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 24,
     "name": "Afrique du Sud",
+    "names": { "en": "South Africa", "es": "Sudáfrica" },
     "value": 60414495,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 25,
     "name": "Tanzanie",
+    "names": { "en": "Tanzania", "es": "Tanzania" },
     "value": 67438106,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 26,
     "name": "Kenya",
+    "names": { "en": "Kenya", "es": "Kenia" },
     "value": 55100586,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 27,
     "name": "Colombie",
+    "names": { "en": "Colombia", "es": "Colombia" },
     "value": 52085168,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 28,
     "name": "Corée du Sud",
+    "names": { "en": "South Korea", "es": "Corea del Sur" },
     "value": 51784059,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 29,
     "name": "Espagne",
+    "names": { "en": "Spain", "es": "España" },
     "value": 47519628,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 30,
     "name": "Argentine",
+    "names": { "en": "Argentina", "es": "Argentina" },
     "value": 45773884,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 31,
     "name": "Algérie",
+    "names": { "en": "Algeria", "es": "Argelia" },
     "value": 45606481,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 32,
     "name": "Soudan",
+    "names": { "en": "Sudan", "es": "Sudán" },
     "value": 48109006,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 33,
     "name": "Ouganda",
+    "names": { "en": "Uganda", "es": "Uganda" },
     "value": 48582334,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 34,
     "name": "Irak",
+    "names": { "en": "Iraq", "es": "Irak" },
     "value": 45504560,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 35,
     "name": "Canada",
+    "names": { "en": "Canada", "es": "Canadá" },
     "value": 38878100,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 36,
     "name": "Maroc",
+    "names": { "en": "Morocco", "es": "Marruecos" },
     "value": 37840044,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 37,
     "name": "Pologne",
+    "names": { "en": "Poland", "es": "Polonia" },
     "value": 41026067,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 38,
     "name": "Ukraine",
+    "names": { "en": "Ukraine", "es": "Ucrania" },
     "value": 36744634,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 39,
     "name": "Arabie saoudite",
+    "names": { "en": "Saudi Arabia", "es": "Arabia Saudita" },
     "value": 36947025,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 40,
     "name": "Pérou",
+    "names": { "en": "Peru", "es": "Perú" },
     "value": 34352719,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 41,
     "name": "Afghanistan",
+    "names": { "en": "Afghanistan", "es": "Afganistán" },
     "value": 42239854,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 42,
     "name": "Malaisie",
+    "names": { "en": "Malaysia", "es": "Malasia" },
     "value": 34308525,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 43,
     "name": "Ouzbékistan",
+    "names": { "en": "Uzbekistan", "es": "Uzbekistán" },
     "value": 35163944,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 44,
     "name": "Yémen",
+    "names": { "en": "Yemen", "es": "Yemen" },
     "value": 34449825,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 45,
     "name": "Ghana",
+    "names": { "en": "Ghana", "es": "Ghana" },
     "value": 34121985,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 46,
     "name": "Mozambique",
+    "names": { "en": "Mozambique", "es": "Mozambique" },
     "value": 33897354,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 47,
     "name": "Népal",
+    "names": { "en": "Nepal", "es": "Nepal" },
     "value": 30896590,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 48,
     "name": "Madagascar",
+    "names": { "en": "Madagascar", "es": "Madagascar" },
     "value": 30325732,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 49,
     "name": "Venezuela",
+    "names": { "en": "Venezuela", "es": "Venezuela" },
     "value": 28838499,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 50,
     "name": "Cameroun",
+    "names": { "en": "Cameroon", "es": "Camerún" },
     "value": 28647293,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 51,
     "name": "Côte d'Ivoire",
+    "names": { "en": "Ivory Coast", "es": "Costa de Marfil" },
     "value": 28873034,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 52,
     "name": "Corée du Nord",
+    "names": { "en": "North Korea", "es": "Corea del Norte" },
     "value": 26160821,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 53,
     "name": "Australie",
+    "names": { "en": "Australia", "es": "Australia" },
     "value": 26439111,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 54,
     "name": "Niger",
+    "names": { "en": "Niger", "es": "Níger" },
     "value": 27202843,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 55,
     "name": "Taïwan",
+    "names": { "en": "Taiwan", "es": "Taiwán" },
     "value": 23923276,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 56,
     "name": "Sri Lanka",
+    "names": { "en": "Sri Lanka", "es": "Sri Lanka" },
     "value": 21893579,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 57,
     "name": "Burkina Faso",
+    "names": { "en": "Burkina Faso", "es": "Burkina Faso" },
     "value": 23251485,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 58,
     "name": "Mali",
+    "names": { "en": "Mali", "es": "Mali" },
     "value": 23293698,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 59,
     "name": "Roumanie",
+    "names": { "en": "Romania", "es": "Rumanía" },
     "value": 19892812,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 60,
     "name": "Malawi",
+    "names": { "en": "Malawi", "es": "Malaui" },
     "value": 20931751,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 61,
     "name": "Chili",
+    "names": { "en": "Chile", "es": "Chile" },
     "value": 19629590,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 62,
     "name": "Kazakhstan",
+    "names": { "en": "Kazakhstan", "es": "Kazajistán" },
     "value": 19606633,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 63,
     "name": "Zambie",
+    "names": { "en": "Zambia", "es": "Zambia" },
     "value": 20569737,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 64,
     "name": "Guatemala",
+    "names": { "en": "Guatemala", "es": "Guatemala" },
     "value": 18092026,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 65,
     "name": "Équateur",
+    "names": { "en": "Ecuador", "es": "Ecuador" },
     "value": 18190484,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 66,
     "name": "Syrie",
+    "names": { "en": "Syria", "es": "Siria" },
     "value": 23227014,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 67,
     "name": "Pays-Bas",
+    "names": { "en": "Netherlands", "es": "Países Bajos" },
     "value": 17988000,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 68,
     "name": "Sénégal",
+    "names": { "en": "Senegal", "es": "Senegal" },
     "value": 17763163,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 69,
     "name": "Cambodge",
+    "names": { "en": "Cambodia", "es": "Camboya" },
     "value": 16944826,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 70,
     "name": "Tchad",
+    "names": { "en": "Chad", "es": "Chad" },
     "value": 18278568,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 71,
     "name": "Somalie",
+    "names": { "en": "Somalia", "es": "Somalia" },
     "value": 18143379,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 72,
     "name": "Zimbabwe",
+    "names": { "en": "Zimbabwe", "es": "Zimbabue" },
     "value": 16665409,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 73,
     "name": "Guinée",
+    "names": { "en": "Guinea", "es": "Guinea" },
     "value": 14190612,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 74,
     "name": "Rwanda",
+    "names": { "en": "Rwanda", "es": "Ruanda" },
     "value": 14094683,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 75,
     "name": "Bénin",
+    "names": { "en": "Benin", "es": "Benín" },
     "value": 13712828,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 76,
     "name": "Burundi",
+    "names": { "en": "Burundi", "es": "Burundi" },
     "value": 13238559,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 77,
     "name": "Tunisie",
+    "names": { "en": "Tunisia", "es": "Túnez" },
     "value": 12458223,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 78,
     "name": "Bolivie",
+    "names": { "en": "Bolivia", "es": "Bolivia" },
     "value": 12388571,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 79,
     "name": "Belgique",
+    "names": { "en": "Belgium", "es": "Bélgica" },
     "value": 11742696,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 80,
     "name": "Haïti",
+    "names": { "en": "Haiti", "es": "Haití" },
     "value": 11724763,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 81,
     "name": "Cuba",
+    "names": { "en": "Cuba", "es": "Cuba" },
     "value": 11194449,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 82,
     "name": "République tchèque",
+    "names": { "en": "Czech Republic", "es": "República Checa" },
     "value": 10495295,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 83,
     "name": "Grèce",
+    "names": { "en": "Greece", "es": "Grecia" },
     "value": 10341277,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 84,
     "name": "Jordanie",
+    "names": { "en": "Jordan", "es": "Jordania" },
     "value": 11337052,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 85,
     "name": "Portugal",
+    "names": { "en": "Portugal", "es": "Portugal" },
     "value": 10247605,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 86,
     "name": "Azerbaïdjan",
+    "names": { "en": "Azerbaijan", "es": "Azerbaiyán" },
     "value": 10412652,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 87,
     "name": "Suède",
+    "names": { "en": "Sweden", "es": "Suecia" },
     "value": 10612086,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 88,
     "name": "Honduras",
+    "names": { "en": "Honduras", "es": "Honduras" },
     "value": 10593798,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 89,
     "name": "Émirats arabes unis",
+    "names": { "en": "United Arab Emirates", "es": "Emiratos Árabes Unidos" },
     "value": 9516871,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 90,
     "name": "Hongrie",
+    "names": { "en": "Hungary", "es": "Hungría" },
     "value": 10156239,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 91,
     "name": "Tadjikistan",
+    "names": { "en": "Tajikistan", "es": "Tayikistán" },
     "value": 10143543,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 92,
     "name": "Biélorussie",
+    "names": { "en": "Belarus", "es": "Bielorrusia" },
     "value": 9498238,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 93,
     "name": "Autriche",
+    "names": { "en": "Austria", "es": "Austria" },
     "value": 9151993,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 94,
     "name": "Papouasie-Nouvelle-Guinée",
+    "names": { "en": "Papua New Guinea", "es": "Papúa Nueva Guinea" },
     "value": 10329931,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 95,
     "name": "Serbie",
+    "names": { "en": "Serbia", "es": "Serbia" },
     "value": 7149077,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 96,
     "name": "Israël",
+    "names": { "en": "Israel", "es": "Israel" },
     "value": 9174520,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 97,
     "name": "Suisse",
+    "names": { "en": "Switzerland", "es": "Suiza" },
     "value": 8796669,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 98,
     "name": "Togo",
+    "names": { "en": "Togo", "es": "Togo" },
     "value": 9053799,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 99,
     "name": "Sierra Leone",
+    "names": { "en": "Sierra Leone", "es": "Sierra Leona" },
     "value": 8791092,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 100,
     "name": "Laos",
+    "names": { "en": "Laos", "es": "Laos" },
     "value": 7633779,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 101,
     "name": "Libye",
+    "names": { "en": "Libya", "es": "Libia" },
     "value": 6888388,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 102,
     "name": "Paraguay",
+    "names": { "en": "Paraguay", "es": "Paraguay" },
     "value": 6861524,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 103,
     "name": "Bulgarie",
+    "names": { "en": "Bulgaria", "es": "Bulgaria" },
     "value": 6447710,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 104,
     "name": "Nicaragua",
+    "names": { "en": "Nicaragua", "es": "Nicaragua" },
     "value": 6948392,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 105,
     "name": "Kirghizistan",
+    "names": { "en": "Kyrgyzstan", "es": "Kirguistán" },
     "value": 6735347,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 106,
     "name": "Salvador",
+    "names": { "en": "El Salvador", "es": "El Salvador" },
     "value": 6331542,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 107,
     "name": "Turkménistan",
+    "names": { "en": "Turkmenistan", "es": "Turkmenistán" },
     "value": 6516100,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 108,
     "name": "Singapour",
+    "names": { "en": "Singapore", "es": "Singapur" },
     "value": 5917648,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 109,
     "name": "Danemark",
+    "names": { "en": "Denmark", "es": "Dinamarca" },
     "value": 5932654,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 110,
     "name": "Finlande",
+    "names": { "en": "Finland", "es": "Finlandia" },
     "value": 5545475,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 111,
     "name": "Slovaquie",
+    "names": { "en": "Slovakia", "es": "Eslovaquia" },
     "value": 5795199,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 112,
     "name": "Norvège",
+    "names": { "en": "Norway", "es": "Noruega" },
     "value": 5474360,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 113,
     "name": "Irlande",
+    "names": { "en": "Ireland", "es": "Irlanda" },
     "value": 5281600,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 114,
     "name": "Nouvelle-Zélande",
+    "names": { "en": "New Zealand", "es": "Nueva Zelanda" },
     "value": 5228100,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 115,
     "name": "Costa Rica",
+    "names": { "en": "Costa Rica", "es": "Costa Rica" },
     "value": 5268083,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 116,
     "name": "Croatie",
+    "names": { "en": "Croatia", "es": "Croacia" },
     "value": 3871833,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 117,
     "name": "Géorgie",
+    "names": { "en": "Georgia", "es": "Georgia" },
     "value": 3728282,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 118,
     "name": "Bosnie-Herzégovine",
+    "names": { "en": "Bosnia and Herzegovina", "es": "Bosnia y Herzegovina" },
     "value": 3210847,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 119,
     "name": "Arménie",
+    "names": { "en": "Armenia", "es": "Armenia" },
     "value": 2777970,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 120,
     "name": "Lituanie",
+    "names": { "en": "Lithuania", "es": "Lituania" },
     "value": 2718352,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 121,
     "name": "Albanie",
+    "names": { "en": "Albania", "es": "Albania" },
     "value": 2791765,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 122,
     "name": "Moldavie",
+    "names": { "en": "Moldova", "es": "Moldavia" },
     "value": 3435931,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 123,
     "name": "Qatar",
+    "names": { "en": "Qatar", "es": "Catar" },
     "value": 2716391,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 124,
     "name": "Bahreïn",
+    "names": { "en": "Bahrain", "es": "Baréin" },
     "value": 1569439,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 125,
     "name": "Luxembourg",
+    "names": { "en": "Luxembourg", "es": "Luxemburgo" },
     "value": 660809,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 126,
     "name": "Malte",
+    "names": { "en": "Malta", "es": "Malta" },
     "value": 542051,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 127,
     "name": "Islande",
+    "names": { "en": "Iceland", "es": "Islandia" },
     "value": 375318,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 128,
     "name": "Monaco",
+    "names": { "en": "Monaco", "es": "Mónaco" },
     "value": 39244,
     "imageUrl": "assets/images/placeholders/country.svg"
   },
   {
     "id": 129,
     "name": "Vatican",
+    "names": { "en": "Vatican", "es": "Vaticano" },
     "value": 764,
     "imageUrl": "assets/images/placeholders/country.svg"
   }

@@ -11,10 +11,10 @@
   (keyup.enter)="selectCard()"
   (keyup.space)="selectCard()"
 >
-  <img [src]="resolvedImageUrl" [alt]="item.name" loading="lazy">
+  <img [src]="resolvedImageUrl" [alt]="displayName" loading="lazy">
   <div class="game-card__body">
     <p class="eyebrow">{{ title }}</p>
-    <h2>{{ item.name }}</h2>
+    <h2>{{ displayName }}</h2>
     <p class="game-card__value">{{ revealValue ? valueText : ('CARD.HIDDEN' | translate) }}</p>
     @if (clickable) {
       <p class="game-card__hint">{{ 'CARD.HINT' | translate }}</p>

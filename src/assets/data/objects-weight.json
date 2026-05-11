@@ -2,972 +2,1134 @@
   {
     "id": 1,
     "name": "Trombone",
+    "names": { "en": "Paper clip", "es": "Clip" },
     "value": 0.001,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 2,
     "name": "Pièce de 1 centime",
+    "names": { "en": "1 cent coin", "es": "Moneda de 1 céntimo" },
     "value": 0.0023,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 3,
     "name": "Carte bancaire",
+    "names": { "en": "Bank card", "es": "Tarjeta bancaria" },
     "value": 0.005,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 4,
     "name": "Clé de maison",
+    "names": { "en": "House key", "es": "Llave de casa" },
     "value": 0.01,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 5,
     "name": "Stylo bille",
+    "names": { "en": "Ballpoint pen", "es": "Bolígrafo" },
     "value": 0.01,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 6,
     "name": "Canette vide",
+    "names": { "en": "Empty can", "es": "Lata vacía" },
     "value": 0.015,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 7,
     "name": "Brosse à dents",
+    "names": { "en": "Toothbrush", "es": "Cepillo de dientes" },
     "value": 0.02,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 8,
     "name": "Pile AA",
+    "names": { "en": "AA battery", "es": "Pila AA" },
     "value": 0.024,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 9,
-    "name": "Souris d’ordinateur",
+    "name": "Souris d'ordinateur",
+    "names": { "en": "Computer mouse", "es": "Ratón de ordenador" },
     "value": 0.09,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 10,
     "name": "Télécommande",
+    "names": { "en": "Remote control", "es": "Control remoto" },
     "value": 0.12,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 11,
     "name": "Banane",
+    "names": { "en": "Banana", "es": "Plátano" },
     "value": 0.12,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 12,
     "name": "Pomme",
+    "names": { "en": "Apple", "es": "Manzana" },
     "value": 0.18,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 13,
     "name": "Orange",
+    "names": { "en": "Orange", "es": "Naranja" },
     "value": 0.2,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 14,
     "name": "Smartphone",
+    "names": { "en": "Smartphone", "es": "Teléfono inteligente" },
     "value": 0.2,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 15,
     "name": "Casque audio",
+    "names": { "en": "Headphones", "es": "Auriculares" },
     "value": 0.25,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 16,
     "name": "Manette de jeu",
+    "names": { "en": "Game controller", "es": "Mando de juego" },
     "value": 0.28,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 17,
     "name": "Livre de poche",
+    "names": { "en": "Paperback book", "es": "Libro de bolsillo" },
     "value": 0.3,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 18,
     "name": "Raquette de tennis",
+    "names": { "en": "Tennis racket", "es": "Raqueta de tenis" },
     "value": 0.3,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 19,
     "name": "Mug en céramique",
+    "names": { "en": "Ceramic mug", "es": "Taza de cerámica" },
     "value": 0.35,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 20,
     "name": "Canette pleine",
+    "names": { "en": "Full can", "es": "Lata llena" },
     "value": 0.37,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 21,
     "name": "Ballon de football",
+    "names": { "en": "Football", "es": "Balón de fútbol" },
     "value": 0.43,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 22,
     "name": "Tablette",
+    "names": { "en": "Tablet", "es": "Tableta" },
     "value": 0.5,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 23,
-    "name": "Bouteille d’eau 50 cl",
+    "name": "Bouteille d'eau 50 cl",
+    "names": { "en": "50cl water bottle", "es": "Botella de agua 50 cl" },
     "value": 0.52,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 24,
     "name": "Enceinte Bluetooth",
+    "names": { "en": "Bluetooth speaker", "es": "Altavoz Bluetooth" },
     "value": 0.7,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 25,
     "name": "Sac à main",
+    "names": { "en": "Handbag", "es": "Bolso de mano" },
     "value": 1.0,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 26,
     "name": "Bouteille de vin pleine",
+    "names": { "en": "Full wine bottle", "es": "Botella de vino llena" },
     "value": 1.2,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 27,
     "name": "Ordinateur portable",
+    "names": { "en": "Laptop", "es": "Ordenador portátil" },
     "value": 1.4,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 28,
     "name": "Dictionnaire",
+    "names": { "en": "Dictionary", "es": "Diccionario" },
     "value": 1.5,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 29,
     "name": "Réchaud de camping",
+    "names": { "en": "Camping stove", "es": "Hornillo de camping" },
     "value": 1.5,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 30,
     "name": "Casque de moto",
+    "names": { "en": "Motorcycle helmet", "es": "Casco de moto" },
     "value": 1.6,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 31,
     "name": "Guitare acoustique",
+    "names": { "en": "Acoustic guitar", "es": "Guitarra acústica" },
     "value": 2.5,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 32,
     "name": "Valise cabine vide",
+    "names": { "en": "Empty cabin suitcase", "es": "Maleta de cabina vacía" },
     "value": 3,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 33,
     "name": "Tente 2 places",
+    "names": { "en": "2-person tent", "es": "Tienda de campaña 2 plazas" },
     "value": 3,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 34,
     "name": "Planche de surf",
+    "names": { "en": "Surfboard", "es": "Tabla de surf" },
     "value": 3,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 35,
     "name": "Guitare électrique",
+    "names": { "en": "Electric guitar", "es": "Guitarra eléctrica" },
     "value": 4,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 36,
     "name": "Scanner",
+    "names": { "en": "Scanner", "es": "Escáner" },
     "value": 4,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 37,
     "name": "Snowboard",
+    "names": { "en": "Snowboard", "es": "Snowboard" },
     "value": 4,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 38,
     "name": "Chat domestique",
+    "names": { "en": "Domestic cat", "es": "Gato doméstico" },
     "value": 4.5,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 39,
     "name": "Pastèque",
+    "names": { "en": "Watermelon", "es": "Sandía" },
     "value": 5.0,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 40,
     "name": "Machine à café",
+    "names": { "en": "Coffee machine", "es": "Cafetera" },
     "value": 5,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 41,
     "name": "Skis alpins",
+    "names": { "en": "Alpine skis", "es": "Esquís alpinos" },
     "value": 5,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 42,
     "name": "Aspirateur",
+    "names": { "en": "Vacuum cleaner", "es": "Aspiradora" },
     "value": 6.0,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 43,
     "name": "Extincteur",
+    "names": { "en": "Fire extinguisher", "es": "Extintor" },
     "value": 6,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 44,
     "name": "Pack de lait 6 bouteilles",
+    "names": { "en": "6-bottle milk pack", "es": "Pack de 6 botellas de leche" },
     "value": 6.5,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 45,
     "name": "Boule de bowling",
+    "names": { "en": "Bowling ball", "es": "Bola de bolos" },
     "value": 7,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 46,
     "name": "Imprimante de bureau",
+    "names": { "en": "Desktop printer", "es": "Impresora de escritorio" },
     "value": 8,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 47,
     "name": "Échelle aluminium",
+    "names": { "en": "Aluminium ladder", "es": "Escalera de aluminio" },
     "value": 8,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 48,
-    "name": "Pack de six bouteilles d’eau",
+    "name": "Pack de six bouteilles d'eau",
+    "names": { "en": "Six-pack of water bottles", "es": "Pack de seis botellas de agua" },
     "value": 9,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 49,
     "name": "Vélo enfant",
+    "names": { "en": "Children's bicycle", "es": "Bicicleta infantil" },
     "value": 10,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 50,
     "name": "Paddle gonflable",
+    "names": { "en": "Inflatable paddle board", "es": "Tabla de paddle inflable" },
     "value": 10,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 51,
     "name": "Poussette",
+    "names": { "en": "Stroller", "es": "Cochecito de bebé" },
     "value": 10,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 52,
     "name": "Sac de riz 10 kg",
+    "names": { "en": "10 kg rice bag", "es": "Saco de arroz 10 kg" },
     "value": 10,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 53,
     "name": "Four micro-ondes",
+    "names": { "en": "Microwave oven", "es": "Microondas" },
     "value": 12,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 54,
     "name": "Amplificateur guitare",
+    "names": { "en": "Guitar amplifier", "es": "Amplificador de guitarra" },
     "value": 12,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 55,
     "name": "Hoverboard",
+    "names": { "en": "Hoverboard", "es": "Hoverboard" },
     "value": 12,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 56,
     "name": "Vélo adulte",
+    "names": { "en": "Adult bicycle", "es": "Bicicleta adulto" },
     "value": 14,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 57,
     "name": "Chaise de bureau",
+    "names": { "en": "Office chair", "es": "Silla de oficina" },
     "value": 15,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 58,
     "name": "Trottinette électrique",
+    "names": { "en": "Electric scooter", "es": "Patinete eléctrico" },
     "value": 15,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 59,
     "name": "Batterie de voiture",
+    "names": { "en": "Car battery", "es": "Batería de coche" },
     "value": 15,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 60,
     "name": "Pare-brise",
+    "names": { "en": "Windshield", "es": "Parabrisas" },
     "value": 15,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 61,
     "name": "Brouette",
+    "names": { "en": "Wheelbarrow", "es": "Carretilla" },
     "value": 15,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 62,
     "name": "Valise cabine remplie",
+    "names": { "en": "Full cabin suitcase", "es": "Maleta de cabina llena" },
     "value": 18,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 63,
     "name": "Téléviseur 55 pouces",
+    "names": { "en": "55-inch television", "es": "Televisor 55 pulgadas" },
     "value": 19,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 64,
     "name": "Barbecue charbon",
+    "names": { "en": "Charcoal barbecue", "es": "Barbacoa de carbón" },
     "value": 20,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 65,
     "name": "Kayak monoplace",
+    "names": { "en": "Single kayak", "es": "Kayak individual" },
     "value": 20,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 66,
     "name": "Lit bébé",
+    "names": { "en": "Baby crib", "es": "Cuna de bebé" },
     "value": 20,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 67,
     "name": "Roue de voiture",
+    "names": { "en": "Car wheel", "es": "Rueda de coche" },
     "value": 20,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 68,
     "name": "Ancre de bateau",
+    "names": { "en": "Boat anchor", "es": "Ancla de barco" },
     "value": 20,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 69,
     "name": "Sac de ciment",
+    "names": { "en": "Cement bag", "es": "Saco de cemento" },
     "value": 25,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 70,
     "name": "Porte de voiture",
+    "names": { "en": "Car door", "es": "Puerta de coche" },
     "value": 25,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 71,
     "name": "Bouteille de gaz propane",
+    "names": { "en": "Propane gas bottle", "es": "Botella de gas propano" },
     "value": 27,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 72,
     "name": "Chien labrador",
+    "names": { "en": "Labrador dog", "es": "Perro labrador" },
     "value": 30,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 73,
     "name": "Tondeuse thermique",
+    "names": { "en": "Petrol lawn mower", "es": "Cortacésped térmico" },
     "value": 30,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 74,
     "name": "Chien berger allemand",
+    "names": { "en": "German shepherd dog", "es": "Perro pastor alemán" },
     "value": 35,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 75,
     "name": "Bureau en bois",
+    "names": { "en": "Wooden desk", "es": "Escritorio de madera" },
     "value": 35,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 76,
     "name": "Matelas deux places",
+    "names": { "en": "Double mattress", "es": "Colchón de dos plazas" },
     "value": 35,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 77,
     "name": "Table à manger",
+    "names": { "en": "Dining table", "es": "Mesa de comedor" },
     "value": 45,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 78,
     "name": "Commode",
+    "names": { "en": "Dresser", "es": "Cómoda" },
     "value": 45,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 79,
     "name": "Groupe électrogène",
+    "names": { "en": "Generator", "es": "Generador eléctrico" },
     "value": 45,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 80,
     "name": "Lave-vaisselle",
+    "names": { "en": "Dishwasher", "es": "Lavavajillas" },
     "value": 50,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 81,
     "name": "Congélateur coffre",
+    "names": { "en": "Chest freezer", "es": "Arcón congelador" },
     "value": 60,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 82,
     "name": "Bibliothèque",
+    "names": { "en": "Bookshelf", "es": "Estantería" },
     "value": 60,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 83,
     "name": "Boîte de vitesses",
+    "names": { "en": "Gearbox", "es": "Caja de cambios" },
     "value": 60,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 84,
     "name": "Bétonnière",
+    "names": { "en": "Concrete mixer", "es": "Hormigonera" },
     "value": 60,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 85,
     "name": "Canapé deux places",
+    "names": { "en": "Two-seater sofa", "es": "Sofá de dos plazas" },
     "value": 65,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 86,
     "name": "Machine à laver",
+    "names": { "en": "Washing machine", "es": "Lavadora" },
     "value": 70,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 87,
     "name": "Lit double",
+    "names": { "en": "Double bed", "es": "Cama doble" },
     "value": 70,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 88,
     "name": "Armoire",
+    "names": { "en": "Wardrobe", "es": "Armario" },
     "value": 80,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 89,
     "name": "Canapé trois places",
+    "names": { "en": "Three-seater sofa", "es": "Sofá de tres plazas" },
     "value": 85,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 90,
     "name": "Réfrigérateur",
+    "names": { "en": "Refrigerator", "es": "Refrigerador" },
     "value": 90,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 91,
     "name": "Moto cross",
+    "names": { "en": "Motocross bike", "es": "Moto de cross" },
     "value": 105,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 92,
     "name": "Scooter",
+    "names": { "en": "Scooter", "es": "Scooter" },
     "value": 110,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 93,
     "name": "Bateau pneumatique",
+    "names": { "en": "Inflatable boat", "es": "Bote neumático" },
     "value": 120,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 94,
     "name": "Coffre-fort domestique",
+    "names": { "en": "Home safe", "es": "Caja fuerte doméstica" },
     "value": 150,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 95,
     "name": "Moteur de voiture",
+    "names": { "en": "Car engine", "es": "Motor de coche" },
     "value": 180,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 96,
     "name": "Piano droit",
+    "names": { "en": "Upright piano", "es": "Piano vertical" },
     "value": 200,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 97,
     "name": "Moto routière",
+    "names": { "en": "Road motorcycle", "es": "Moto de carretera" },
     "value": 220,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 98,
     "name": "Tondeuse autoportée",
+    "names": { "en": "Ride-on lawn mower", "es": "Cortacésped autoportante" },
     "value": 250,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 99,
     "name": "Quad",
+    "names": { "en": "Quad bike", "es": "Quad" },
     "value": 300,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 100,
     "name": "Billard américain",
+    "names": { "en": "Pool table", "es": "Mesa de billar americano" },
     "value": 350,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 101,
     "name": "Ours brun",
+    "names": { "en": "Brown bear", "es": "Oso pardo" },
     "value": 350,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 102,
     "name": "Cheval adulte",
+    "names": { "en": "Adult horse", "es": "Caballo adulto" },
     "value": 500,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 103,
     "name": "Dromadaire",
+    "names": { "en": "Dromedary", "es": "Dromedario" },
     "value": 600,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 104,
     "name": "Vache adulte",
+    "names": { "en": "Adult cow", "es": "Vaca adulta" },
     "value": 650,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 105,
     "name": "Avion Cessna 172",
+    "names": { "en": "Cessna 172 airplane", "es": "Avión Cessna 172" },
     "value": 760,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 106,
     "name": "Palette de carrelage",
+    "names": { "en": "Pallet of tiles", "es": "Palé de baldosas" },
     "value": 900,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 107,
     "name": "Rover martien",
+    "names": { "en": "Mars rover", "es": "Róver marciano" },
     "value": 1025,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 108,
     "name": "Voiture citadine",
+    "names": { "en": "City car", "es": "Coche urbano" },
     "value": 1100,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 109,
     "name": "Requin blanc",
+    "names": { "en": "Great white shark", "es": "Tiburón blanco" },
     "value": 1100,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 110,
     "name": "Palette de briques",
+    "names": { "en": "Pallet of bricks", "es": "Palé de ladrillos" },
     "value": 1200,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 111,
     "name": "Girafe adulte",
+    "names": { "en": "Adult giraffe", "es": "Jirafa adulta" },
     "value": 1200,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 112,
     "name": "Voiture compacte",
+    "names": { "en": "Compact car", "es": "Coche compacto" },
     "value": 1300,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 113,
     "name": "Hippopotame",
+    "names": { "en": "Hippopotamus", "es": "Hipopótamo" },
     "value": 1500,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 114,
     "name": "Hélicoptère léger",
+    "names": { "en": "Light helicopter", "es": "Helicóptero ligero" },
     "value": 1500,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 115,
     "name": "SUV familial",
+    "names": { "en": "Family SUV", "es": "SUV familiar" },
     "value": 1800,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 116,
     "name": "Satellite météo",
+    "names": { "en": "Weather satellite", "es": "Satélite meteorológico" },
     "value": 2000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 117,
     "name": "Fourgonnette",
+    "names": { "en": "Van", "es": "Furgoneta" },
     "value": 2200,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 118,
     "name": "Conteneur maritime vide 20 pieds",
+    "names": { "en": "Empty 20-foot shipping container", "es": "Contenedor marítimo vacío de 20 pies" },
     "value": 2200,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 119,
     "name": "Rhinocéros blanc",
+    "names": { "en": "White rhinoceros", "es": "Rinoceronte blanco" },
     "value": 2300,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 120,
     "name": "Camion de livraison",
+    "names": { "en": "Delivery truck", "es": "Camión de reparto" },
     "value": 3500,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 121,
     "name": "Ambulance",
+    "names": { "en": "Ambulance", "es": "Ambulancia" },
     "value": 3500,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 122,
     "name": "Camping-car",
+    "names": { "en": "Motorhome", "es": "Autocaravana" },
     "value": 3500,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 123,
-    "name": "Éléphant d’Asie",
+    "name": "Éléphant d'Asie",
+    "names": { "en": "Asian elephant", "es": "Elefante asiático" },
     "value": 5000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 124,
-    "name": "Éléphant d’Afrique",
+    "name": "Éléphant d'Afrique",
+    "names": { "en": "African elephant", "es": "Elefante africano" },
     "value": 6000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 125,
     "name": "Orque",
+    "names": { "en": "Orca", "es": "Orca" },
     "value": 6000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 126,
     "name": "Tracteur agricole",
+    "names": { "en": "Agricultural tractor", "es": "Tractor agrícola" },
     "value": 7000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 127,
     "name": "Nacelle élévatrice",
+    "names": { "en": "Aerial work platform", "es": "Plataforma elevadora" },
     "value": 7000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 128,
     "name": "Hélicoptère de transport",
+    "names": { "en": "Transport helicopter", "es": "Helicóptero de transporte" },
     "value": 10000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 129,
     "name": "Bus scolaire",
+    "names": { "en": "School bus", "es": "Autobús escolar" },
     "value": 11000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 130,
     "name": "Télescope spatial Hubble",
+    "names": { "en": "Hubble Space Telescope", "es": "Telescopio espacial Hubble" },
     "value": 11110,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 131,
     "name": "Bus urbain",
+    "names": { "en": "City bus", "es": "Autobús urbano" },
     "value": 12000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 132,
     "name": "Rouleau compresseur",
+    "names": { "en": "Road roller", "es": "Rodillo compactador" },
     "value": 12000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 133,
     "name": "Camion benne",
+    "names": { "en": "Dump truck", "es": "Camión volquete" },
     "value": 14000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 134,
     "name": "Semi-remorque vide",
+    "names": { "en": "Empty semi-trailer", "es": "Semirremolque vacío" },
     "value": 15000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 135,
     "name": "Chargeuse sur pneus",
+    "names": { "en": "Wheel loader", "es": "Cargadora de ruedas" },
     "value": 16000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 136,
     "name": "Camion poubelle",
+    "names": { "en": "Garbage truck", "es": "Camión de basura" },
     "value": 18000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 137,
     "name": "Bulldozer",
+    "names": { "en": "Bulldozer", "es": "Bulldózer" },
     "value": 18000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 138,
     "name": "Pelleteuse",
+    "names": { "en": "Excavator", "es": "Excavadora" },
     "value": 20000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 139,
     "name": "Conteneur maritime chargé 20 pieds",
+    "names": { "en": "Loaded 20-foot shipping container", "es": "Contenedor marítimo cargado de 20 pies" },
     "value": 24000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 140,
     "name": "Wagon de métro",
+    "names": { "en": "Subway car", "es": "Vagón de metro" },
     "value": 30000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 141,
     "name": "Baleine à bosse",
+    "names": { "en": "Humpback whale", "es": "Ballena jorobada" },
     "value": 30000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 142,
     "name": "Semi-remorque chargé",
+    "names": { "en": "Loaded semi-trailer", "es": "Semirremolque cargado" },
     "value": 40000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 143,
     "name": "Tramway",
+    "names": { "en": "Tram", "es": "Tranvía" },
     "value": 40000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 144,
     "name": "Avion Airbus A320 vide",
+    "names": { "en": "Empty Airbus A320 aircraft", "es": "Avión Airbus A320 vacío" },
     "value": 42000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 145,
     "name": "Char de combat",
+    "names": { "en": "Battle tank", "es": "Carro de combate" },
     "value": 62000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 146,
     "name": "Locomotive électrique",
+    "names": { "en": "Electric locomotive", "es": "Locomotora eléctrica" },
     "value": 84000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 147,
     "name": "Baleine bleue",
+    "names": { "en": "Blue whale", "es": "Ballena azul" },
     "value": 150000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 148,
     "name": "Grue de chantier",
+    "names": { "en": "Construction crane", "es": "Grúa de obra" },
     "value": 180000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 149,
     "name": "Avion Boeing 747 vide",
+    "names": { "en": "Empty Boeing 747 aircraft", "es": "Avión Boeing 747 vacío" },
     "value": 183500,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 150,
     "name": "Statue de la Liberté",
+    "names": { "en": "Statue of Liberty", "es": "Estatua de la Libertad" },
     "value": 225000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 151,
     "name": "Avion Airbus A380 vide",
+    "names": { "en": "Empty Airbus A380 aircraft", "es": "Avión Airbus A380 vacío" },
     "value": 277000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 152,
     "name": "Train à grande vitesse",
+    "names": { "en": "High-speed train", "es": "Tren de alta velocidad" },
     "value": 390000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 153,
     "name": "Grande roue",
+    "names": { "en": "Ferris wheel", "es": "Noria" },
     "value": 400000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 154,
     "name": "Station spatiale internationale",
+    "names": { "en": "International Space Station", "es": "Estación Espacial Internacional" },
     "value": 420000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 155,
     "name": "Fusée Falcon 9 au décollage",
+    "names": { "en": "Falcon 9 rocket at launch", "es": "Cohete Falcon 9 en el despegue" },
     "value": 549000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 156,
     "name": "Navette spatiale au décollage",
+    "names": { "en": "Space shuttle at launch", "es": "Transbordador espacial en el despegue" },
     "value": 2030000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 157,
     "name": "Sous-marin nucléaire",
+    "names": { "en": "Nuclear submarine", "es": "Submarino nuclear" },
     "value": 6000000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 158,
     "name": "Tour Eiffel",
+    "names": { "en": "Eiffel Tower", "es": "Torre Eiffel" },
     "value": 10100000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 159,
     "name": "Pont suspendu moyen",
+    "names": { "en": "Average suspension bridge", "es": "Puente colgante mediano" },
     "value": 50000000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 160,
     "name": "Porte-conteneurs géant",
+    "names": { "en": "Giant container ship", "es": "Buque portacontenedores gigante" },
     "value": 200000000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 161,
     "name": "Navire de croisière",
+    "names": { "en": "Cruise ship", "es": "Crucero" },
     "value": 225000000,
     "imageUrl": "assets/images/placeholders/object.svg"
   },
   {
     "id": 162,
     "name": "Pétrolier géant",
+    "names": { "en": "Giant oil tanker", "es": "Superpetrolero gigante" },
     "value": 300000000,
     "imageUrl": "assets/images/placeholders/object.svg"
   }

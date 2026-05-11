@@ -1,259 +1,302 @@
 [
   {
     "id": 1,
-    "name": "Sommet de l’Everest",
+    "name": "Sommet de l'Everest",
+    "names": { "en": "Mount Everest summit", "es": "Cumbre del Everest" },
     "value": 8849,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 2,
     "name": "Station spatiale Tiangong",
+    "names": { "en": "Tiangong Space Station", "es": "Estación espacial Tiangong" },
     "value": 400000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 3,
     "name": "ISS (orbite basse)",
+    "names": { "en": "ISS (low orbit)", "es": "ISS (órbita baja)" },
     "value": 408000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 4,
     "name": "Télescope Hubble",
+    "names": { "en": "Hubble Telescope", "es": "Telescopio Hubble" },
     "value": 540000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 5,
     "name": "Lune",
+    "names": { "en": "Moon", "es": "Luna" },
     "value": 384400000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 6,
     "name": "Télescope James Webb",
+    "names": { "en": "James Webb Telescope", "es": "Telescopio James Webb" },
     "value": 1500000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 7,
     "name": "Vénus (au plus proche)",
+    "names": { "en": "Venus (closest)", "es": "Venus (más cercano)" },
     "value": 38000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 8,
     "name": "Mars (au plus proche)",
+    "names": { "en": "Mars (closest)", "es": "Marte (más cercano)" },
     "value": 54600000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 9,
     "name": "Mercure (au plus proche)",
+    "names": { "en": "Mercury (closest)", "es": "Mercurio (más cercano)" },
     "value": 77000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 10,
     "name": "Soleil",
+    "names": { "en": "Sun", "es": "Sol" },
     "value": 149600000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 11,
     "name": "Mercure (au plus loin)",
+    "names": { "en": "Mercury (farthest)", "es": "Mercurio (más lejano)" },
     "value": 222000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 12,
     "name": "Vénus (au plus loin)",
+    "names": { "en": "Venus (farthest)", "es": "Venus (más lejano)" },
     "value": 261000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 13,
-    "name": "Ceinture d’astéroïdes",
+    "name": "Ceinture d'astéroïdes",
+    "names": { "en": "Asteroid Belt", "es": "Cinturón de asteroides" },
     "value": 329000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 14,
     "name": "Mars (au plus loin)",
+    "names": { "en": "Mars (farthest)", "es": "Marte (más lejano)" },
     "value": 401000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 15,
     "name": "Jupiter",
+    "names": { "en": "Jupiter", "es": "Júpiter" },
     "value": 588000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 16,
     "name": "Jupiter (au plus proche)",
+    "names": { "en": "Jupiter (closest)", "es": "Júpiter (más cercano)" },
     "value": 588000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 17,
     "name": "Saturne",
+    "names": { "en": "Saturn", "es": "Saturno" },
     "value": 1200000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 18,
     "name": "Saturne (au plus proche)",
+    "names": { "en": "Saturn (closest)", "es": "Saturno (más cercano)" },
     "value": 1200000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 19,
     "name": "Uranus",
+    "names": { "en": "Uranus", "es": "Urano" },
     "value": 2600000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 20,
     "name": "Uranus (au plus proche)",
+    "names": { "en": "Uranus (closest)", "es": "Urano (más cercano)" },
     "value": 2600000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 21,
     "name": "Pluton (au plus proche)",
+    "names": { "en": "Pluto (closest)", "es": "Plutón (más cercano)" },
     "value": 4280000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 22,
     "name": "Neptune",
+    "names": { "en": "Neptune", "es": "Neptuno" },
     "value": 4300000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 23,
     "name": "Neptune (au plus proche)",
+    "names": { "en": "Neptune (closest)", "es": "Neptuno (más cercano)" },
     "value": 4300000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 24,
     "name": "Pluton",
+    "names": { "en": "Pluto", "es": "Plutón" },
     "value": 5900000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 25,
     "name": "Voyager 1",
+    "names": { "en": "Voyager 1", "es": "Voyager 1" },
     "value": 24000000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 26,
-    "name": "Nébuleuse d’Orion",
+    "name": "Nébuleuse d'Orion",
+    "names": { "en": "Orion Nebula", "es": "Nebulosa de Orión" },
     "value": 12700000000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 27,
     "name": "Proxima du Centaure",
+    "names": { "en": "Proxima Centauri", "es": "Próxima Centauri" },
     "value": 40100000000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 28,
     "name": "Étoile Sirius",
+    "names": { "en": "Sirius star", "es": "Estrella Sirio" },
     "value": 81000000000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 29,
     "name": "Centre de la Voie lactée",
+    "names": { "en": "Milky Way center", "es": "Centro de la Vía Láctea" },
     "value": 250000000000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 30,
     "name": "Trou noir Sagittarius A*",
+    "names": { "en": "Sagittarius A* black hole", "es": "Agujero negro Sagitario A*" },
     "value": 250000000000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 31,
     "name": "Grand Nuage de Magellan",
+    "names": { "en": "Large Magellanic Cloud", "es": "Gran Nube de Magallanes" },
     "value": 1600000000000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 32,
     "name": "Petit Nuage de Magellan",
+    "names": { "en": "Small Magellanic Cloud", "es": "Pequeña Nube de Magallanes" },
     "value": 2000000000000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 33,
     "name": "Étoile Polaire",
+    "names": { "en": "Polaris (North Star)", "es": "Estrella Polar" },
     "value": 4100000000000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 34,
     "name": "Bételgeuse",
+    "names": { "en": "Betelgeuse", "es": "Betelgeuse" },
     "value": 6100000000000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 35,
     "name": "Rigel",
+    "names": { "en": "Rigel", "es": "Rigel" },
     "value": 8200000000000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 36,
-    "name": "Galaxie d’Andromède",
+    "name": "Galaxie d'Andromède",
+    "names": { "en": "Andromeda Galaxy", "es": "Galaxia de Andrómeda" },
     "value": 24000000000000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 37,
     "name": "Galaxie du Triangle",
+    "names": { "en": "Triangulum Galaxy", "es": "Galaxia del Triángulo" },
     "value": 29000000000000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 38,
     "name": "Galaxie du Sombrero",
+    "names": { "en": "Sombrero Galaxy", "es": "Galaxia del Sombrero" },
     "value": 290000000000000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 39,
     "name": "Messier 87",
+    "names": { "en": "Messier 87", "es": "Messier 87" },
     "value": 500000000000000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 40,
     "name": "NGC 1300",
+    "names": { "en": "NGC 1300", "es": "NGC 1300" },
     "value": 610000000000000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 41,
     "name": "Amas de la Vierge",
+    "names": { "en": "Virgo Cluster", "es": "Cúmulo de Virgo" },
     "value": 620000000000000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 42,
     "name": "Quasar 3C 273",
+    "names": { "en": "Quasar 3C 273", "es": "Cuásar 3C 273" },
     "value": 23000000000000000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   },
   {
     "id": 43,
     "name": "Quasar TON 618",
+    "names": { "en": "Quasar TON 618", "es": "Cuásar TON 618" },
     "value": 101000000000000000000000,
     "imageUrl": "assets/images/placeholders/space.svg"
   }

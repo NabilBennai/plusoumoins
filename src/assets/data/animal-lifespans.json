@@ -2,480 +2,560 @@
   {
     "id": 1,
     "name": "Éphémère",
+    "names": { "en": "Mayfly", "es": "Efímera" },
     "value": 0.01,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 2,
     "name": "Mouche domestique",
+    "names": { "en": "House fly", "es": "Mosca doméstica" },
     "value": 0.08,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 3,
     "name": "Moustique",
+    "names": { "en": "Mosquito", "es": "Mosquito" },
     "value": 0.1,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 4,
     "name": "Abeille ouvrière",
+    "names": { "en": "Worker bee", "es": "Abeja obrera" },
     "value": 0.1,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 5,
     "name": "Souris",
+    "names": { "en": "Mouse", "es": "Ratón" },
     "value": 2,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 6,
     "name": "Hamster",
+    "names": { "en": "Hamster", "es": "Hámster" },
     "value": 3,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 7,
     "name": "Rat",
+    "names": { "en": "Rat", "es": "Rata" },
     "value": 3,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 8,
     "name": "Pieuvre",
+    "names": { "en": "Octopus", "es": "Pulpo" },
     "value": 3,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 9,
     "name": "Hérisson",
+    "names": { "en": "Hedgehog", "es": "Erizo" },
     "value": 5,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 10,
     "name": "Renard",
+    "names": { "en": "Fox", "es": "Zorro" },
     "value": 5,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 11,
     "name": "Caméléon",
+    "names": { "en": "Chameleon", "es": "Camaleón" },
     "value": 5,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 12,
     "name": "Calmar géant",
+    "names": { "en": "Giant squid", "es": "Calamar gigante" },
     "value": 5,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 13,
     "name": "Escargot",
+    "names": { "en": "Snail", "es": "Caracol" },
     "value": 5,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 14,
     "name": "Pigeon",
+    "names": { "en": "Pigeon", "es": "Paloma" },
     "value": 6,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 15,
     "name": "Poulet",
+    "names": { "en": "Chicken", "es": "Pollo" },
     "value": 8,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 16,
     "name": "Loup",
+    "names": { "en": "Wolf", "es": "Lobo" },
     "value": 8,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 17,
     "name": "Lapin",
+    "names": { "en": "Rabbit", "es": "Conejo" },
     "value": 9,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 18,
     "name": "Canard",
+    "names": { "en": "Duck", "es": "Pato" },
     "value": 10,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 19,
     "name": "Grenouille",
+    "names": { "en": "Frog", "es": "Rana" },
     "value": 10,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 20,
     "name": "Sanglier",
+    "names": { "en": "Wild boar", "es": "Jabalí" },
     "value": 10,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 21,
     "name": "Guépard",
+    "names": { "en": "Cheetah", "es": "Guepardo" },
     "value": 12,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 22,
     "name": "Mouton",
+    "names": { "en": "Sheep", "es": "Oveja" },
     "value": 12,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 23,
     "name": "Gazelle",
+    "names": { "en": "Gazelle", "es": "Gacela" },
     "value": 12,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 24,
     "name": "Castor",
+    "names": { "en": "Beaver", "es": "Castor" },
     "value": 12,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 25,
     "name": "Chien",
+    "names": { "en": "Dog", "es": "Perro" },
     "value": 13,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 26,
     "name": "Lion",
+    "names": { "en": "Lion", "es": "León" },
     "value": 14,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 27,
     "name": "Chat domestique",
+    "names": { "en": "Domestic cat", "es": "Gato doméstico" },
     "value": 15,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 28,
     "name": "Cochon",
+    "names": { "en": "Pig", "es": "Cerdo" },
     "value": 15,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 29,
     "name": "Chèvre",
+    "names": { "en": "Goat", "es": "Cabra" },
     "value": 15,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 30,
     "name": "Koala",
+    "names": { "en": "Koala", "es": "Koala" },
     "value": 15,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 31,
     "name": "Poisson rouge",
+    "names": { "en": "Goldfish", "es": "Pez dorado" },
     "value": 15,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 32,
     "name": "Faucon pèlerin",
+    "names": { "en": "Peregrine falcon", "es": "Halcón peregrino" },
     "value": 15,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 33,
     "name": "Axolotl",
+    "names": { "en": "Axolotl", "es": "Ajolote" },
     "value": 15,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 34,
     "name": "Cerf",
+    "names": { "en": "Deer", "es": "Ciervo" },
     "value": 15,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 35,
     "name": "Antilope",
+    "names": { "en": "Antelope", "es": "Antílope" },
     "value": 15,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 36,
     "name": "Loutre",
+    "names": { "en": "Otter", "es": "Nutria" },
     "value": 15,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 37,
     "name": "Tigre",
+    "names": { "en": "Tiger", "es": "Tigre" },
     "value": 16,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 38,
     "name": "Vache",
+    "names": { "en": "Cow", "es": "Vaca" },
     "value": 20,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 39,
     "name": "Kangourou",
+    "names": { "en": "Kangaroo", "es": "Canguro" },
     "value": 20,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 40,
     "name": "Panda géant",
+    "names": { "en": "Giant panda", "es": "Panda gigante" },
     "value": 20,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 41,
     "name": "Iguane",
+    "names": { "en": "Iguana", "es": "Iguana" },
     "value": 20,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 42,
     "name": "Manchot empereur",
+    "names": { "en": "Emperor penguin", "es": "Pingüino emperador" },
     "value": 20,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 43,
     "name": "Salamandre",
+    "names": { "en": "Salamander", "es": "Salamandra" },
     "value": 20,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 44,
     "name": "Bison",
+    "names": { "en": "Bison", "es": "Bisonte" },
     "value": 20,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 45,
     "name": "Hyène",
+    "names": { "en": "Hyena", "es": "Hiena" },
     "value": 20,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 46,
     "name": "Lama",
+    "names": { "en": "Llama", "es": "Llama" },
     "value": 20,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 47,
     "name": "Alpaga",
+    "names": { "en": "Alpaca", "es": "Alpaca" },
     "value": 20,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 48,
     "name": "Girafe",
+    "names": { "en": "Giraffe", "es": "Jirafa" },
     "value": 25,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 49,
     "name": "Zèbre",
+    "names": { "en": "Zebra", "es": "Cebra" },
     "value": 25,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 50,
     "name": "Ours brun",
+    "names": { "en": "Brown bear", "es": "Oso pardo" },
     "value": 25,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 51,
     "name": "Ours polaire",
+    "names": { "en": "Polar bear", "es": "Oso polar" },
     "value": 25,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 52,
     "name": "Serpent python",
+    "names": { "en": "Python snake", "es": "Serpiente pitón" },
     "value": 25,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 53,
     "name": "Hibou",
+    "names": { "en": "Owl", "es": "Búho" },
     "value": 25,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 54,
     "name": "Termite reine",
+    "names": { "en": "Queen termite", "es": "Termita reina" },
     "value": 25,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 55,
     "name": "Cheval",
+    "names": { "en": "Horse", "es": "Caballo" },
     "value": 30,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 56,
     "name": "Âne",
+    "names": { "en": "Donkey", "es": "Burro" },
     "value": 30,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 57,
     "name": "Aigle royal",
+    "names": { "en": "Golden eagle", "es": "Águila real" },
     "value": 30,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 58,
     "name": "Fourmi reine",
+    "names": { "en": "Queen ant", "es": "Hormiga reina" },
     "value": 30,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 59,
     "name": "Phoque",
+    "names": { "en": "Seal", "es": "Foca" },
     "value": 30,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 60,
     "name": "Gorille",
+    "names": { "en": "Gorilla", "es": "Gorila" },
     "value": 40,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 61,
     "name": "Dauphin",
+    "names": { "en": "Dolphin", "es": "Delfín" },
     "value": 40,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 62,
     "name": "Carpe koï",
+    "names": { "en": "Koi carp", "es": "Carpa koi" },
     "value": 40,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 63,
     "name": "Autruche",
+    "names": { "en": "Ostrich", "es": "Avestruz" },
     "value": 40,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 64,
     "name": "Rhinocéros",
+    "names": { "en": "Rhinoceros", "es": "Rinoceronte" },
     "value": 40,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 65,
     "name": "Dromadaire",
+    "names": { "en": "Dromedary", "es": "Dromedario" },
     "value": 40,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 66,
     "name": "Morse",
+    "names": { "en": "Walrus", "es": "Morsa" },
     "value": 40,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 67,
     "name": "Chimpanzé",
+    "names": { "en": "Chimpanzee", "es": "Chimpancé" },
     "value": 45,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 68,
     "name": "Orang-outan",
+    "names": { "en": "Orangutan", "es": "Orangután" },
     "value": 45,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 69,
     "name": "Hippopotame",
+    "names": { "en": "Hippopotamus", "es": "Hipopótamo" },
     "value": 45,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 70,
     "name": "Alligator",
+    "names": { "en": "Alligator", "es": "Aligátor" },
     "value": 50,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 71,
     "name": "Chameau",
+    "names": { "en": "Camel", "es": "Camello" },
     "value": 50,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 72,
     "name": "Orque",
+    "names": { "en": "Orca", "es": "Orca" },
     "value": 60,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 73,
     "name": "Perroquet ara",
+    "names": { "en": "Macaw parrot", "es": "Loro guacamayo" },
     "value": 60,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 74,
-    "name": "Éléphant d’Afrique",
+    "name": "Éléphant d'Afrique",
+    "names": { "en": "African elephant", "es": "Elefante africano" },
     "value": 65,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 75,
     "name": "Requin blanc",
+    "names": { "en": "Great white shark", "es": "Tiburón blanco" },
     "value": 70,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 76,
     "name": "Crocodile",
+    "names": { "en": "Crocodile", "es": "Cocodrilo" },
     "value": 70,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 77,
     "name": "Humain",
+    "names": { "en": "Human", "es": "Humano" },
     "value": 80,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 78,
     "name": "Baleine bleue",
+    "names": { "en": "Blue whale", "es": "Ballena azul" },
     "value": 90,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 79,
     "name": "Tortue terrestre géante",
+    "names": { "en": "Giant land tortoise", "es": "Tortuga gigante terrestre" },
     "value": 120,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   },
   {
     "id": 80,
     "name": "Méduse immortelle",
+    "names": { "en": "Immortal jellyfish", "es": "Medusa inmortal" },
     "value": 9999,
     "imageUrl": "assets/images/placeholders/lifespan.svg"
   }
